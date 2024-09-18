@@ -18,7 +18,7 @@ It was common for a learned gentleman to amass a private library consisting of t
 
 <param ve-image 
       label="Image from <cite>The works of Virgil : containing his Pastorals, Georgics, and Æneis </cite> / translated into English verse by Mr Dryden"
-      url="url here">
+      url="https://github.com/user-attachments/assets/40195165-ff9f-4f34-a920-a89829f9e895">
 
 ## 2. Middle Temple Library: Beginnings
 While the Inn had a small collection prior to 1540, it was the bequest of Robert Ashley’s collection of circa 5000 books in 1642 which led to the library’s re-founding and expansion. Ashley was admitted to Middle Temple in 1588 and called to the bar in 1595. His collection highlights his interest in a variety of different subject areas including travel, science, medicine, and classical literature. A number of items from his collection are featured in this exhibition, many which feature his handwritten notes. 
@@ -29,14 +29,18 @@ If you would like to read more about Robert Ashley’s life, Middle Temple Libra
 
 <param ve-image 
       label="caption here"
-      url="url here">
+      url="https://github.com/user-attachments/assets/6df7963f-457a-4af4-9849-6a5772c7794c">
+
+<param ve-image 
+      label="caption here"
+      url="https://github.com/user-attachments/assets/6a2f1af5-3e4e-4771-916a-51e327dc2932">
 
 ## 3. Middle Temple Library: Early Catalogues
 Middle Temple Library’s first catalogue was produced in 1655. While this original catalogue no longer exists, a later catalogue compiled in c.1683 can be found in the Inn’s Archive. In 1700 the first printed catalogue was compiled by Sir Bartholomew Shower, who was the Inn’s Treasurer at the time. The 1734 catalogue shown below was the first to arrange the collection by author and title.
 <br><br>
 <param ve-image 
       label="Middle Temple Library Catalogue, 1734."
-      url="url here">
+      url="https://github.com/user-attachments/assets/296780ed-28bd-40a9-9393-52598c787b09">
 
 ## 4. The Ancient World
 The rise of the humanist movement in the Renaissance period led to a revived interest in the classical world. Humanists believed that the study of the ancient world was integral to a well-rounded education. The teachings of fifteenth century Italian humanist schools were based on the works of Classical authors such as Cicero, Plato and Virgil and also incorporated the study of ancient art, as well as Latin and philology. In the sixteenth century the Humanist educational curriculum spread throughout Europe and became the model for the schooling of European elites.
@@ -45,7 +49,7 @@ From the late sixteenth until the nineteenth century young wealthy European elit
 
 <param ve-image 
       label="Image from <cite>The works of Virgil: Containing his Pastorals, Georgics, and Aeneis</cite> (1697), translated by John Dryden"
-      url="url here">
+      url="https://github.com/user-attachments/assets/de3636ba-2439-4dd1-9b4b-b9dfa60d776c">
 
 ## 5. Virgil, <cite>The works of Virgil: Containing his Pastorals, Georgics, and Aeneis (1697)</cite>, translated by John Dryden
 <i>“Arms, and the man I sing, who, forc'd by fate,
@@ -67,7 +71,7 @@ Virgil's works have greatly influenced Western literature. Most notably the Divi
 
 <param ve-image 
       label="caption here"
-      url="url here">
+      url="https://github.com/user-attachments/assets/15fa50b8-83e9-45f4-995c-c04a949ff9de">
 
 ## 6. Apuleius, <cite>Les metamorphoses ou l'asne dor</cite> (1623), translated by Chez Samuel Thibous From the collection of Robert Ashley (1565-1641)
 This French translation of Roman writer and philosopher, Apuleius’ <cite>The Metamorphoses</cite> or <cite>The Golden Ass</cite> was published in Paris in 1623. The title <cite>Metamorphoses</cite> comes from an eleventh century manuscript however, Augustine tells us that Apuleius himself used the title <cite>Asinus Aureus</cite> (CD 18.18). The tale which is believed to have been inspired by a now lost Greek story, is the only ancient Roman novel which survives in its entirety. Within the fable its hero Lucius’ obsession with sex and magic leads to him being transformed into an ass by the witch, Pamphile. After surviving a number of trials and ordeals he is finally transformed back into his human form by the goddess Isis.
@@ -76,7 +80,7 @@ The novel inspired a number of works by sixteenth and seventeenth century writer
 
 <param ve-image 
       label="Image from Les Metamorphoses ou l'Asne Dor (1623). "
-      url="url here">
+      url="https://github.com/user-attachments/assets/91ddf652-aa22-420f-9b04-f75f648bb19b">
       
 ## 7. A Fable Within a Fable: <cite>Cupid and Psyche</cite> in Apuleius’ <cite>The Golden Ass</cite>
 By the end of Book 3 the story’s protagonist Lucius has been magically transformed into a Donkey. Following a series of unfortunate events, he finds himself imprisoned in a Bandits’ hideout alongside a young woman who has been taken hostage by the robbers.  The young woman after waking from a terrifying dream is distracted from her night terrors by an ‘old wife’s tale’ told to her by an ‘old hag’ who lives with the bandits. The tale which takes up three central chapters of Apuleius’ fable is that of Cupid and Psyche. 
@@ -89,7 +93,7 @@ Translated by P. G. Walsh
 
 <param ve-image 
       label="Image from <cite>Les Metamorphoses ou l'Asne Dor</cite> (1623). "
-      url="url here">
+      url="https://github.com/user-attachments/assets/1683a389-ce98-4a7e-9720-5397f603f2ce">
       
 ## 8. Apuleius (mid-120 AD -?)
 Apuleius was born in the mid-120s AD in Madauros, an ancient Roman city in Numidia (modern day Algeria). His father was a <i>duumvir</i>, one of the Roman colony’s two chief magistrates. Apuleius’ education took him to both Carthage where he studied philosophy and to Greece where he gained a wide knowledge of Greek literature and culture. At the age of thirty Apuleius visited Egypt where he fell ill on his way to Alexandria. He was encouraged by Pontius, an acquaintance he made while studying in Athens, to stay in his family home in Oea (modern day Tripoli). Whilst staying with the family Apuleius began a relationship with Pontius’ mother Pudentilla, claiming he loved the wealthy widow for her “sterling qualities”. However, Pudentilla’s father, Herennius Rufus objected to the match and persuaded Sicinius Aemilianus, the brother of her first husband to indict Apuleius on a charge of magic which was punishable by death. The trial was held before proconsul, Claudius Maximus in 158-9 AD. Apuleius defended himself in the trial with a speech, which has survived and is commonly known as the <i>Apologia</i>. He successfully secured his acquittal.
@@ -99,10 +103,6 @@ Apuleius was born in the mid-120s AD in Madauros, an ancient Roman city in Numid
 Translated by H. E. Butler
 <br><br>
 Following the trial Apuleius returned to Numidia and took up residence in Carthage. He gained fame far and wide as a writer, philosopher and lecturer.
-
-<param ve-image 
-      label="caption here"
-      url="url here">
       
 ## 9. Johannes Rosinus (1551-1626), <cite>Antiquitatum Romanarum Corpus Absolutissum</cite>, 1620 From the collection of Robert Ashley (1565-1641)
 The first edition of the <cite>Antiquitatum Romanarum Corpus Absolutissum</cite> was published in 1583. The work is an illustrated encyclopaedia of Roman antiquity by the German author, Johannes Rosinus. Rosinus studied at Jena, before becoming the sub-rector of a school at Regensburg. In later years he became the minister of a Lutheran church in Naumburg, Saxony. 
@@ -110,7 +110,7 @@ The first edition of the <cite>Antiquitatum Romanarum Corpus Absolutissum</cite>
 Later editions such as this were expanded and amended by the Scottish Catholic scholar and historian, Thomas Dempster (1579-1625). The 1613 edition was dedicated to King James I which won Dempster an invitation to the English court.
 <param ve-image 
       label="Image from Johannes Rosinus (1551-1626), <cite>Antiquitatum Romanarum Corpus Absolutissum</cite>, 1620."
-      url="url here">
+      url="https://github.com/user-attachments/assets/d4cb30e2-57fb-4f44-9556-6b815ba41425">
       
 ## 10 Heinrich Ernst and Paganino Gaudenzio, <cite>Ad antiquitates Etruscas quas Volaterrae nuper dederunt observationes, in quibus disquisitionis astronomicae de etruscarum antiquitatum fragmentis auctor quoque notatur</cite>, 1639 From the collection of Robert Ashley (1565-1641)
 <cite>Ad antiquitates Etruscas</cite> is a response to Curzio Inghirami’s <cite>Ethruscarum Antiquitatum Fragmenta</cite> which was published in Florence in 1636. This work on the Etruscan history of Volterra was based on the contents of a number of paper scrolls which had been discovered by Inghirami near his family home, south of the Etruscan city of Volterra. The Latin text on the scrolls suggested they had been written in the first century B.C. by an Etruscan man named Prospero of Fiesole. 
@@ -127,14 +127,14 @@ Gaudenzio theory that the scrolls were fakes was proved correct in 1700, (45 yea
 
 <param ve-image 
       label="Heinrich Ernst and Paganino Gaudenzio, <cite>Ad antiquitates Etruscas quas Volaterrae nuper dederunt observationes, in quibus disquisitionis astronomicae de etruscarum antiquitatum fragmentis auctor quoque notatur</cite>, 1639. Photo: Harpreet Dhillon"
-      url="url here">
+      url="https://github.com/user-attachments/assets/c604e4de-9108-4708-9d34-00c8e6cfb028">
       
 ## 11. Map of Volterra from Curzio Inghirami’s <cite>Ethruscarum Antiquitatum Fragmenta</cite>, 1636 
 The Inghirami family home, Villa Scornello can be found towards the bottom left of the map (Labelled number one). The house stood on a hill south of the Etruscan city, Volterra.
 <br><br>
 <param ve-image 
       label="Image: Archive.org "
-      url="url here">
+      url="https://github.com/user-attachments/assets/7324fee2-9a20-4ccd-9f67-36a85636899e">
       
 ## 12. History
 Chronicles represent one of the earliest forms of history books, and until the late 16th century the “chronicle seemed to the English writer to be the most appropriate, indeed the only available vehicle for a narrative representation of the past,” according to D.R. Woolf’s article <cite>Genre into Artifact</cite>. Detailed and told with a linear timeline, chronicles provided information of key events; although the creator’s biases, including religious viewpoints, influenced the interpretation of events. There was also a tendency to embellish, since these were not always first-hand accounts, leading to inaccuracies.
@@ -142,7 +142,7 @@ Chronicles represent one of the earliest forms of history books, and until the l
 By the time of the seventeenth century the structure of the chronicle became unfashionable. The format was cumbersome and expensive to keep up to date. New genres arose, such as almanacs and calendars, which were better suited to keeping news of current events. The rigid structure of chronicles also gave way to the Renaissance humanism movement, which meant historiographies were less influenced by divinity and more affected by the human experience. Books placed more emphasis on politics and battles, with analysis and an expectation to learn from these past events.
 <param ve-image 
       label="Image Raphael Holinshed’s Chronicles of England, Scotlande, and Irelande. 1577. Internet Archive ‎CC0"
-      url="url here">
+      url="https://github.com/user-attachments/assets/7410f5f0-fa07-4b53-affd-a5a49dbf0a3f">
       
 ## 13. <cite>The Annales of England : faithfully collected out of the most autenticall authors, records , and other monuments of antiquitie, from the first inhabitation untill this present yeere 1592</cite> / by John Stow
 This work is a revised edition of <cite>The Chronicles of England</cite> (1580), by English historian John Stow. Subsequent longer editions of the <cite>Annales</cite> followed (five in total), with the 1605 version being the last Stow worked on before his death. Chronicler Edmund Howes would continue the work of his predecessor.
@@ -158,7 +158,7 @@ Under the heading of Richard I, Stow carries on the legendary tale of Robin Hood
 -Stow, <cite>The Annales of England</cite>, 227
 <param ve-image 
       label="Image from the title page of <cite>The Annales of England : faithfully collected out of the most autenticall authors, records , and other monuments of antiquitie, from the first inhabitation untill this present yeere</cite> 1592 / by John Stow"
-      url="url here">
+      url="https://github.com/user-attachments/assets/0516a6ae-35b7-415e-b17c-71d4806824d3">
 
 ## 14. John Stow 1524/25 -1605
 John Stow was a historian and antiquarian. Along with The Chronicles of England, he also complied A Survey of London and A Summarie of Englyshe Chronicles. “Stow is an excellent example of the citizen historian, with no elitist pretensions,” according to Barrett Beer and Andrea Manchester in Writing and Rewriting Early Modern History.
@@ -172,7 +172,7 @@ Stow’s interest in rare books and collecting antiquities left him destitute at
 -Stow, <cite>The Annales of England</cite>
 <param ve-image 
       label="Image John Stow by unknown artist. Courtesy of National Portrait Gallery, London"
-      url="url here">
+      url="https://github.com/user-attachments/assets/a51bb49e-2c4d-4bfc-a537-c607eba73d75">
 
 ## 15. Campaigns of King William and Queen Anne; from 1689, to 1712 : also, a new system of military discipline, for a battalion of foot and action; with the most essential exercise of the cavalry : adorn'd with a map of the seat of war, and a plan to the exercise 1745 / by Richard Kane
 Published in 1745, the first portion of the book is author Richard Kane’s memoir, detailing the military campaigns under King William and Queen Anne’s reigns. Kane was a British army officer from Ireland, who fought under John Churchill, the 1st Duke of Marlborough. Writing about victory in Blenheim against the French and Bavarians, Kane says:
@@ -185,14 +185,14 @@ The book and map were printed by John Millan, a bookseller who worked in Charing
 
 <param ve-image 
       label="Image of map printed by John Millan in <cite>Campaigns of King William and Queen Anne; from 1689, to 1712 : also, a new system of military discipline, for a battalion of foot and action; with the most essential exercise of the cavalry : adorn'd with a map of the seat of war, and a plan to the exercise</cite> 1745 / by Richard Kane"
-      url="url here">
+      url="https://github.com/user-attachments/assets/c7d724b7-5ead-43dd-8665-be4b5ab6bc19">
 
 ## 16. Travel Literature
 From the second half of the fifteen century major voyages to Africa, America and Asia led to the expansion of geographical knowledge in Europe. Sixteenth century travel books such as these by André Thevet constituted the origins of the science of ethnology. They also provided a number of European countries with what they believed was justification for colonialism. 
 <br><br>
 <param ve-image 
       label="Depiction of Sea Hunt from Book One of La Cosmographie Universelle (1575)."
-      url="url here">
+      url="https://github.com/user-attachments/assets/4c70ed10-7330-4b7e-b0ea-a1e969202e15">
 
 ## 17. Andre Thevet (1502-1590), La Cosmographie Universelle (1575) From the collection of Robert Ashley (1565-1641)
 <cite>La Cosmographie Universelle</cite>'s two volumes contain over one thousand pages divided into twenty-three books. The work is divided into four sections which correspond to the four continents. As well as maps and depictions of the indigenous people and architectural wonders, the illustrations also include depictions of exotic animals and plants.
@@ -200,7 +200,11 @@ From the second half of the fifteen century major voyages to Africa, America and
 The artwork on display (page 941) is of a “haut”. It has been identified with a species of three-toed sloths such as Bradypus variegatus which are found in the forests of Central and South America (See the image below). This woodcut is from chapter thirteen of book twenty-one.
 <param ve-image 
       label="Photo of three-toed sloth, photograph by Natural History on the Net."
-      url="url here">
+      url="https://github.com/user-attachments/assets/3b8b712b-bd8c-4d9a-942d-206cab029250">
+
+<param ve-image 
+      label="Photo of three-toed sloth, photograph by Natural History on the Net."
+      url="https://github.com/user-attachments/assets/141cfc5d-8173-4351-8082-d51d0af22606">
 
 ## 18. Andre Thevet (1502-1590), La Cosmographie De Levant (1556) From the collection of Robert Ashley (1565-1641)
 <cite>La Cosmographie de Levant</cite> was published in Lyon, in 1556 shortly after Thevet returned from his voyage to the near East. Within the text Thevet describes the lands, people and animals of Asia, Egypt, Greece, Palestine and Rhodes. The woodcuts which include depictions of animals, hunting scenes and antiquities amongst other things are by the French painter and draftsman Bernard Salomon, also known as “Le Petit Bernard” (1506 - c. 1561).
@@ -213,7 +217,7 @@ Translated by John Bostock, M.D., F.R.S. H.T. Riley, Esq.
 
 <param ve-image 
       label="Colossus of Rhodes reconstruction from Andre Thevet (1502-1590), La Cosmographie De Levant (1556)."
-      url="url here">
+      url="https://github.com/user-attachments/assets/5ca08298-30cd-4414-b6e9-d6c99966b4bc">
 
 ## 19. André Thevet (1516 - c. 1592)
 Both of these works were written by traveller André Thevet. Thevet was a Domenican Friar and the “Cosmographe du Roy” (Royal Cosmographer of France) for the last four Valois monarchs. He was born in Angoulême, France in 1516. His father, Étienne Thevet, was a barber-surgeon. At the age of ten, he entered the Franciscan convent of Angoulême
@@ -224,23 +228,20 @@ Thevet died in Paris in c. 1592.
 
 <param ve-image 
       label="Portrait of André Thévet, from Les Vrais Pourtraits et Vies des Hommes Illustres (Paris, 1584). © The Trustees of the British Museum"
-      url="url here">
+      url="https://github.com/user-attachments/assets/2ee6b053-dd2d-4a47-b04f-6ac314f0900d">
 
 ## 20. Religious Literature in the Early Modern Period
 The Reformation made an enormous impact on the lives of those who lived during the early modern period (c. 1500-1800). Religious developments during the period also significantly shaped European literature. Important contributions came from writers such as Erasmus, More, and Milton, who addressed theological and philosophical issues within their works. Private collections such as Robert Ashley’s played an important role in the preservation of religious texts, some which would otherwise have been lost. 
 
 <param ve-image 
       label="Photo: Harpreet Dhillon"
-      url="url here">
+      url="https://github.com/user-attachments/assets/26ff63f7-dc72-47d1-98d9-8608dc69d54f">
 
 
 ## 21. Robert Salter, <cite>Wonderfull prophecies from the beginning of the monarchy of this land</cite> (1627)
 Robert Salter’s <cite>Wonderfull Prophecies from the Beginning of the Monarchy of this Land</cite> was printed by William Iones dwelling in Red-crosse streete in 1627. Within the text, Salter delves into a number of intriguing biblical narratives, such as <cite>The Idol Bel and the Dragon, and Daniel in the Den of Lions</cite> suggesting that they contain various hidden prophecies.
 <br><br>
 The work also explores the significance of contemporary events, including the appearance of a comet, and how they align with these prophecies.
-<param ve-image 
-      label="Photo: Harpreet Dhillon"
-      url="url here">
 
 ## 22. Francesco Maria Guazzo, <cite>Compendium Maleficarum (Collection of the Evil Deeds of Witchcraft)</cite> (1626) From the collection of Robert Ashley (1565-1641)
 The <cite>Compendium Maleficarum</cite> was first published in Milan in 1608. This second edition which expanded on the earlier work was published by the Stamperia del Collegio Ambrosiano in 1626. The work which is an encyclopaedic survey of witchcraft and demonology was fully approved by the ecclesiastical authorities. 
@@ -252,7 +253,7 @@ This second wave of witch trials in Italy took place during the Counter-Reformat
 The <cite>Compendium Maleficarum</cite> provides the reader with lengthy descriptions of witches’ crimes, as well as instructions on how to recognise and defend oneself against them. Rather than blaming the witches for their crimes Guazzo suggests that they are the devil’s victims rather than intentional perpetrators of evil.
 <param ve-image 
       label="Francesco Maria Guazzo, Compendium Maleficarum (Collection of the Evil Deeds of Witchcraft) (1626)."
-      url="url here">
+      url="https://github.com/user-attachments/assets/a2b336d7-fbb8-4cda-b10a-9869069951a3">
 
 ## 23. Science
 The practice of alchemy represents man’s early attempt to understand the natural world. Despite its connotation with mysticism, alchemy like modern science involved experimentation and observation; leading 16th and 17th century scientists such as Isaac Newton and Robert Boyle practiced. Alchemists were in search of a chemical substance- a philosopher’s stone- which could alter metals, such as lead and copper, turning them into gold or silver. The desire to understand and apply material change to waters, minerals and metals was to improve industries such as medicine, agriculture, and trade; although, if one found the philosopher’s stone alchemy could also prove profitable. Therefore, secrecy shrouded the practice of alchemy and texts from the time are filled with code names and figurative language.
@@ -260,7 +261,7 @@ The practice of alchemy represents man’s early attempt to understand the natur
 Many of the early fellows of the Royal Society were also interested in alchemy; they described themselves as natural philosophers- educated, professional men of gentry. Like alchemist before them, they conducted experiments and published their findings in the journal <cite>Philosophical Transactions of the Royal Society</cite>.
 <param ve-image 
       label="An elderly alchemist sitting next to his equipment.” Engraving by C. Weigel, 1698. Courtesy of the Wellcome Collection Public Domain "
-      url="url here">
+      url="https://github.com/user-attachments/assets/0c1f0984-fe38-4b50-bdd0-a6475456af7d">
 
 ## 24. Johann Daniel Mylius (1583-1642), Philosophia Reformata (1622) From the collection of Robert Ashley (1565-1641)
 This edition of Johann Daniel Mylius’ <cite>Philosophia Reformata</cite> was published in Frankfurt in 1622. Mylius who was born in Wetter, Germany was a composer and writer of alchemy. He was the brother-in-law and student of Johann Hartmann, Professor of Chymiatria at the University of Marburg.
@@ -270,7 +271,7 @@ The <cite>Philosophia Reformata</cite> is an edition of the 15th-century alchemi
 Alchemy was practiced in Europe as early as the fourteenth century and had reached its zenith by the time the <cite>Philosophia</cite> Reformata was published in the seventeenth century. Alchemy focused on the concept of transmutation, the ability of one element to transform into another. It was a precursor to modern chemistry, and the methods and instruments used had a significant impact on the development of scientific tools.
 <param ve-image 
       label="caption here"
-      url="url here">
+      url="https://github.com/user-attachments/assets/c92a8624-3218-414f-a835-1ce0a834ddc5">
 
 ## 25. The Royal Society 1660 -
 In late 1660, twelve scientifically minded men gathered to discuss philosophy and conduct experiments promoting the benefits of science. These early meetings of practitioners, academics, clergymen, and aristocrats were held at Gresham College in Bishopsgate. 
@@ -281,14 +282,14 @@ Today the society includes approximately 1,800 members worldwide.
 
 <param ve-image 
       label="A meeting of the Royal Society in Crane Court.” This image is from George Walter Thornbury’s book “Old and New London, etc.” published in 1887 the picture shows a meeting of the Royal Society with Sir Issac Newton in the President’s Chair. Image courtesy of British Library CC0."
-      url="url here">
+      url="https://github.com/user-attachments/assets/6a841963-e13c-4fff-959e-95bad778778e">
 
 ## 26. John Evelyn 1620-1706 
 Middle Templar John Evelyn was an early Fellow of the Royal Society, writing books on horticulture and air pollution. Admitted to the Inn in 1636, he kept a diary of his time at the Inn until his death in 1706.
 <br><br>
 <param ve-image 
       label=": Portrait of John Evelyn. T. Bragg after Kneller. Image courtesy of the Wellcome Collection (CC BY 4.0) "
-      url="url here">
+      url="https://github.com/user-attachments/assets/5a26d6ca-553b-4f9b-abd7-49d729014cef">
 
 ## 27. The Philosophical Transactions of the Royal Society 1665-
 Published by Henry Oldenburg, the secretary of the Royal Society, <cite>The Philosophical Transactions</cite> are considered one of the world’s first peer-reviewed periodicals. Still in publication today, it also has the distinction of being the longest running English periodical. 
@@ -298,7 +299,7 @@ The journal features writings on the natural sciences, reports prepared by the S
 Middle Temple Library’s collection includes publications from <cite>The Philosophical Transactions</cite> from 1665 - 1750. Unfortunately, many copies of the Library’s collection are too fragile to display.
 <param ve-image 
       label="Library’s collection of The Philosophical Transactions. Photo Beth Flerlage"
-      url="url here">
+      url="https://github.com/user-attachments/assets/cd3dedd0-e841-4d68-b23b-18810b8fdb83">
 
 ## 28. Philosophical transactions, giving some account of the present undertakings, studies, and labours of the ingenious, in many considerable parts of the world. Vol XLIX Part I 1756
 <cite>An Account of Some Trials to Cure the Ill Taste of Milk, Which is Occasioned by the Food of Cows, Either from Turnips, Cabbages, or Autumnal Leaves, &c. Also to Sweeten Stinking Water, &c. By Stephen Hales, D.D.F.R.S.</cite>
@@ -309,11 +310,11 @@ Stephen Hales (1677-1761) was a clergyman and inventor. Elected as a fellow of t
 
 <param ve-image 
       label="Image Stephen Hales by James Macardell, after Thomas Hudson 1759 © National Portrait Gallery."
-      url="url here">
+      url="https://github.com/user-attachments/assets/5cb86348-c44d-4f6b-9479-b54ef9eea260">
 
 <param ve-image 
       label="Image from <cite>An Account of Some Trials to Cure the Ill Taste of Milk, Which is Occasioned by the Food of Cows, Either from Turnips, Cabbages, or Autumnal Leaves, &c. Also to Sweeten Stinking Water, &c.</cite> by Stephen Hales, D.D.F.R.S. for The Philosophical Transactions"
-      url="url here">
+      url="https://github.com/user-attachments/assets/ec6d3764-b49d-4dc3-aa81-a730e0933515">
 
 ## 29. Philosophical transactions, giving some account of the present undertakings, studies, and labours of the ingenious, in many considerable parts of the world. Vol XLVIII, Part I. 1753
 <i>A letter from Mr. John Ellis to Mr. Peter Collinson, F. R. S concerning cluster-polype, found in the sea near the coast of Greenland.</i>
@@ -322,11 +323,11 @@ John Ellis was a merchant and studied corals. His letter from 1753 was included 
 
 <param ve-image 
       label="Image. Title page of Philosophical transactions, giving some account of the present undertakings, studies, and labours of the ingenious, in many considerable parts of the world. Vol XLVIII, Part I. 1753"
-      url="url here">
+      url="https://github.com/user-attachments/assets/d8b72c62-4bba-4609-a721-7395b90aa808">
 
 <param ve-image 
       label="Image from A letter from Mr. John Ellis to Mr. Peter Collinson, F. R. S concerning cluster-polype, found in the sea near the coast of Greenland."
-      url="url here">
+      url="https://github.com/user-attachments/assets/2f983864-e0cf-4b4a-8530-cf14562d36f3">
 
 ## 30. Rare Book Fund
 Middle Temple Library holds a unique collection of material acquired from the generous donations dating back to the founder of the Library, Robert Ashley, in 1641. Centuries of use have led to wear and tear, with many in urgent need of repair. 
@@ -339,7 +340,7 @@ To find out more about the Rare Book Fund and how you can contribute please scan
 
 <param ve-image 
       label="Video of Liane working with Virgil book. Caption Conservator, Liane Owen, removing surface dirt"
-      url="url here">
+      url="https://github.com/user-attachments/assets/8150e2eb-3a98-4697-95fb-e8443216559e">
 
 ## 31. Works Needing Conservation
 These texts are just some of the examples of items requiring restoration work.
@@ -354,20 +355,19 @@ These texts are just some of the examples of items requiring restoration work.
 
 <param ve-image 
       label="1. Clapmarius"
-      url="url here">
+      url="https://github.com/user-attachments/assets/fd153192-e1b1-4fed-80e9-34d47a7bf43c">
 
 <param ve-image 
       label="2. Heer"
-      url="url here">
+      url="https://github.com/user-attachments/assets/fd7cae37-da59-405a-a7f4-8fcac3c43792">
 
 <param ve-image 
       label="3. Cervantes"
-      url="url here">
+      url="https://github.com/user-attachments/assets/35f4c1f8-bebd-4d16-a96c-bddadf866306">
 
 <param ve-image 
       label="4. Donie"
-      url="url here">
-
+      url="https://github.com/user-attachments/assets/0615dbf4-56e6-44f1-8519-95d763aac941">
 
 ##
 This exhibition runs in Middle Temple Library from September 2024. For more information about the Library and what we do, please click [here](https://www.middletemple.org.uk/library) to visit our website.
