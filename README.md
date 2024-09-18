@@ -136,147 +136,237 @@ The Inghirami family home, Villa Scornello can be found towards the bottom left 
       label="Image: Archive.org "
       url="url here">
       
-## 12
-Para
+## 12. History
+Chronicles represent one of the earliest forms of history books, and until the late 16th century the “chronicle seemed to the English writer to be the most appropriate, indeed the only available vehicle for a narrative representation of the past,” according to D.R. Woolf’s article <cite>Genre into Artifact</cite>. Detailed and told with a linear timeline, chronicles provided information of key events; although the creator’s biases, including religious viewpoints, influenced the interpretation of events. There was also a tendency to embellish, since these were not always first-hand accounts, leading to inaccuracies.
 <br><br>
+By the time of the seventeenth century the structure of the chronicle became unfashionable. The format was cumbersome and expensive to keep up to date. New genres arose, such as almanacs and calendars, which were better suited to keeping news of current events. The rigid structure of chronicles also gave way to the Renaissance humanism movement, which meant historiographies were less influenced by divinity and more affected by the human experience. Books placed more emphasis on politics and battles, with analysis and an expectation to learn from these past events.
 <param ve-image 
-      label="caption here"
+      label="Image Raphael Holinshed’s Chronicles of England, Scotlande, and Irelande. 1577. Internet Archive ‎CC0"
       url="url here">
       
-## 13
-Para
+## 13. <cite>The Annales of England : faithfully collected out of the most autenticall authors, records , and other monuments of antiquitie, from the first inhabitation untill this present yeere 1592</cite> / by John Stow
+This work is a revised edition of <cite>The Chronicles of England</cite> (1580), by English historian John Stow. Subsequent longer editions of the <cite>Annales</cite> followed (five in total), with the 1605 version being the last Stow worked on before his death. Chronicler Edmund Howes would continue the work of his predecessor.
 <br><br>
+Despite the rising opinion chronicles were an antiquated style of recording history, <cite>The Annales</cite> still enjoyed a high level of readership at a time when literacy rates were improving. Stow also began publishing abridgments of the chronicles, with the shorter accounts of historical writings being cheaper to produce.
+<br><br>
+The title page of <cite>The Annales of England</cite> includes the Latin phrase <i>Vivat rex or regina!</i> ('Long live the King or Queen). Stow used the monarch’s reign as the method for organising the work.
+<br><br>
+Under the heading of Richard I, Stow carries on the legendary tale of Robin Hood. 
+<br><br>
+“In this time were many robbers and out-laws, among the which, Robert Hood, and little John, renowmed theeves, continued in the woods, dispoyling and robbing the goods of the rich.”
+<br><br>
+-Stow, <cite>The Annales of England</cite>, 227
+<param ve-image 
+      label="Image from the title page of <cite>The Annales of England : faithfully collected out of the most autenticall authors, records , and other monuments of antiquitie, from the first inhabitation untill this present yeere</cite> 1592 / by John Stow"
+      url="url here">
+
+## 14. John Stow 1524/25 -1605
+John Stow was a historian and antiquarian. Along with The Chronicles of England, he also complied A Survey of London and A Summarie of Englyshe Chronicles. “Stow is an excellent example of the citizen historian, with no elitist pretensions,” according to Barrett Beer and Andrea Manchester in Writing and Rewriting Early Modern History.
+<br><br>
+Originally interested in poetry, Stow turned to writing chronicles to improve the format. He was from a humbler social status than his historical writing contemporaries, who were elite, educated historians. His background influenced his observations; The Annales focus on events impacting the average citizen, such as plagues and severe weather, less on politics. 
+<br><br>
+Stow’s interest in rare books and collecting antiquities left him destitute at the end of his life. He says in the opening of The Annales of England (1592): 
+<br><br>
+“It is now more than thirtie yeeres (right reverende father) since I first addressed all my cares and cogitations to the studies of histories and search for antiquities: the greatest part of which time I have diligently imploied in collecting such matters of this kingdome, as I thought most woorthie to be recommended both to the present and succeeding age.”
+<br><br>
+-Stow, <cite>The Annales of England</cite>
+<param ve-image 
+      label="Image John Stow by unknown artist. Courtesy of National Portrait Gallery, London"
+      url="url here">
+
+## 15. Campaigns of King William and Queen Anne; from 1689, to 1712 : also, a new system of military discipline, for a battalion of foot and action; with the most essential exercise of the cavalry : adorn'd with a map of the seat of war, and a plan to the exercise 1745 / by Richard Kane
+Published in 1745, the first portion of the book is author Richard Kane’s memoir, detailing the military campaigns under King William and Queen Anne’s reigns. Kane was a British army officer from Ireland, who fought under John Churchill, the 1st Duke of Marlborough. Writing about victory in Blenheim against the French and Bavarians, Kane says:
+<br><br>
+“I rode thro’ the greatest part of the field of battle, where I made the best remarks and observations to inform myself of it. The loss of the enemy was computed to be about 40,000, killed, drowned, and taken, will all their artillery, tents, and baggage, besides a very great booty. Our army had near 14,000 kill’d and wounded; those under Prince Eugene suffered most. I shall say nothing of as to the consequences that attended this famous battle, more than it decided the fate of the Empire, fixed the Imperial Crown in the House of Austria, and was the first fatal blow that Lewis XIV had received during his whole reign.”
+<br><br>
+-Kane, <cite>Campaigns of King William and Queen Anne</cite>, 51  
+<br><br>
+The book and map were printed by John Millan, a bookseller who worked in Charing Cross.
+
+<param ve-image 
+      label="Image of map printed by John Millan in <cite>Campaigns of King William and Queen Anne; from 1689, to 1712 : also, a new system of military discipline, for a battalion of foot and action; with the most essential exercise of the cavalry : adorn'd with a map of the seat of war, and a plan to the exercise</cite> 1745 / by Richard Kane"
+      url="url here">
+
+## 16. Travel Literature
+From the second half of the fifteen century major voyages to Africa, America and Asia led to the expansion of geographical knowledge in Europe. Sixteenth century travel books such as these by André Thevet constituted the origins of the science of ethnology. They also provided a number of European countries with what they believed was justification for colonialism. 
+<br><br>
+<param ve-image 
+      label="Depiction of Sea Hunt from Book One of La Cosmographie Universelle (1575)."
+      url="url here">
+
+## 17. Andre Thevet (1502-1590), La Cosmographie Universelle (1575) From the collection of Robert Ashley (1565-1641)
+<cite>La Cosmographie Universelle</cite>'s two volumes contain over one thousand pages divided into twenty-three books. The work is divided into four sections which correspond to the four continents. As well as maps and depictions of the indigenous people and architectural wonders, the illustrations also include depictions of exotic animals and plants.
+<br><br>
+The artwork on display (page 941) is of a “haut”. It has been identified with a species of three-toed sloths such as Bradypus variegatus which are found in the forests of Central and South America (See the image below). This woodcut is from chapter thirteen of book twenty-one.
+<param ve-image 
+      label="Photo of three-toed sloth, photograph by Natural History on the Net."
+      url="url here">
+
+## 18. Andre Thevet (1502-1590), La Cosmographie De Levant (1556) From the collection of Robert Ashley (1565-1641)
+<cite>La Cosmographie de Levant</cite> was published in Lyon, in 1556 shortly after Thevet returned from his voyage to the near East. Within the text Thevet describes the lands, people and animals of Asia, Egypt, Greece, Palestine and Rhodes. The woodcuts which include depictions of animals, hunting scenes and antiquities amongst other things are by the French painter and draftsman Bernard Salomon, also known as “Le Petit Bernard” (1506 - c. 1561).
+<br><br>
+The artwork on display on page 105 is a reconstruction of the Colossus of Rhodes which is discussed in the work. This bronze statue of Helios, the Greek sun god was constructed in the third century B.C. and was one of the Seven Wonders of the Ancient World. While we will never know how tall the statue exactly was, a recent study by Robert B. Kebric suggests that it measured at least 110 feet with its pedestal adding another fifty feet, making its combined hight around 160 feet, about half the height of the Statue of Liberty. The statue which stood at the apex of the acropolis of Rhodes was built as an offering to Helios, the island’s patron deity. Unfortunately, the statue collapsed during the Rhodes earthquake of 226 B.C. A first-century AD description of the Colossus’ remains can be found in Roman writer, Pliny the Elder’s encyclopaedic work, the <cite>Natural History</cite>.
+<br><br>
+<i>“This statue fifty-six years after it was erected, was thrown down by an earthquake; but even as it lies, it excites our wonder and admiration. Few men can clasp the thumb in their arms, and its fingers are larger than most statues. Where the limbs are broken asunder, vast caverns are seen yawning in the interior. Within it, too, are to be seen large masses of rock, by the weight of which the artist steadied it while erecting it. It is said that it was twelve years before this statue was completed, and that three hundred talents were expended upon it; a sum raised from the engines of warfare which had been abandoned by King Demetrius, when tired of the long-protracted siege of Rhodes”</i> (Pliny the Elder, <cite>Natural History</cite>: 18.4-6).
+<br><br>
+Translated by John Bostock, M.D., F.R.S. H.T. Riley, Esq.
+
+<param ve-image 
+      label="Colossus of Rhodes reconstruction from Andre Thevet (1502-1590), La Cosmographie De Levant (1556)."
+      url="url here">
+
+## 19. André Thevet (1516 - c. 1592)
+Both of these works were written by traveller André Thevet. Thevet was a Domenican Friar and the “Cosmographe du Roy” (Royal Cosmographer of France) for the last four Valois monarchs. He was born in Angoulême, France in 1516. His father, Étienne Thevet, was a barber-surgeon. At the age of ten, he entered the Franciscan convent of Angoulême
+<br><br>
+Thevet travelled the Orient for five or six years from c. 1537. He claimed to have visited America in 1550 with the pilot Guillaume Testu, however this statement is now generally considered to be false. He also visited Brazil from November 1555 to January 1556 as almoner to Villegaignon, the vice-admiral of Brittany. The aim of the visit was to establish a new French colony. 
+<br><br>
+Thevet died in Paris in c. 1592.
+
+<param ve-image 
+      label="Portrait of André Thévet, from Les Vrais Pourtraits et Vies des Hommes Illustres (Paris, 1584). © The Trustees of the British Museum"
+      url="url here">
+
+## 20. Religious Literature in the Early Modern Period
+The Reformation made an enormous impact on the lives of those who lived during the early modern period (c. 1500-1800). Religious developments during the period also significantly shaped European literature. Important contributions came from writers such as Erasmus, More, and Milton, who addressed theological and philosophical issues within their works. Private collections such as Robert Ashley’s played an important role in the preservation of religious texts, some which would otherwise have been lost. 
+
+<param ve-image 
+      label="Photo: Harpreet Dhillon"
+      url="url here">
+
+
+## 21. Robert Salter, <cite>Wonderfull prophecies from the beginning of the monarchy of this land</cite> (1627)
+Robert Salter’s <cite>Wonderfull Prophecies from the Beginning of the Monarchy of this Land</cite> was printed by William Iones dwelling in Red-crosse streete in 1627. Within the text, Salter delves into a number of intriguing biblical narratives, such as <cite>The Idol Bel and the Dragon, and Daniel in the Den of Lions</cite> suggesting that they contain various hidden prophecies.
+<br><br>
+The work also explores the significance of contemporary events, including the appearance of a comet, and how they align with these prophecies.
+<param ve-image 
+      label="Photo: Harpreet Dhillon"
+      url="url here">
+
+## 22. Francesco Maria Guazzo, <cite>Compendium Maleficarum (Collection of the Evil Deeds of Witchcraft)</cite> (1626) From the collection of Robert Ashley (1565-1641)
+The <cite>Compendium Maleficarum</cite> was first published in Milan in 1608. This second edition which expanded on the earlier work was published by the Stamperia del Collegio Ambrosiano in 1626. The work which is an encyclopaedic survey of witchcraft and demonology was fully approved by the ecclesiastical authorities. 
+<br><br>
+We know little of Guazzo apart from that he was born in northern Italy in around 570 and that he was a theology lecturer for the order of Saint Barnaba and Saint Ambrose ad Nemus who are known to have specialised in exorcism. In the early seventeenth century, he visited a number of European courts to assist in trials for witchcraft and cases of demonic possession.
+<br><br>
+This second wave of witch trials in Italy took place during the Counter-Reformation when the Catholic church retaliated and responded to the Protestant Reformations. During this period the Catholic Inquisition believed that witches were infected by an evil sickness spread by the devil which could only be cured by purging the infected. The Catholic Inquisition which operated in Spain and Italy was a judicial procedure and a group of institutions who aimed to combat apostasy, heresy, blasphemy and witchcraft.
+<br><br>
+The <cite>Compendium Maleficarum</cite> provides the reader with lengthy descriptions of witches’ crimes, as well as instructions on how to recognise and defend oneself against them. Rather than blaming the witches for their crimes Guazzo suggests that they are the devil’s victims rather than intentional perpetrators of evil.
+<param ve-image 
+      label="Francesco Maria Guazzo, Compendium Maleficarum (Collection of the Evil Deeds of Witchcraft) (1626)."
+      url="url here">
+
+## 23. Science
+The practice of alchemy represents man’s early attempt to understand the natural world. Despite its connotation with mysticism, alchemy like modern science involved experimentation and observation; leading 16th and 17th century scientists such as Isaac Newton and Robert Boyle practiced. Alchemists were in search of a chemical substance- a philosopher’s stone- which could alter metals, such as lead and copper, turning them into gold or silver. The desire to understand and apply material change to waters, minerals and metals was to improve industries such as medicine, agriculture, and trade; although, if one found the philosopher’s stone alchemy could also prove profitable. Therefore, secrecy shrouded the practice of alchemy and texts from the time are filled with code names and figurative language.
+<br><br>
+Many of the early fellows of the Royal Society were also interested in alchemy; they described themselves as natural philosophers- educated, professional men of gentry. Like alchemist before them, they conducted experiments and published their findings in the journal <cite>Philosophical Transactions of the Royal Society</cite>.
+<param ve-image 
+      label="An elderly alchemist sitting next to his equipment.” Engraving by C. Weigel, 1698. Courtesy of the Wellcome Collection Public Domain "
+      url="url here">
+
+## 24. Johann Daniel Mylius (1583-1642), Philosophia Reformata (1622) From the collection of Robert Ashley (1565-1641)
+This edition of Johann Daniel Mylius’ <cite>Philosophia Reformata</cite> was published in Frankfurt in 1622. Mylius who was born in Wetter, Germany was a composer and writer of alchemy. He was the brother-in-law and student of Johann Hartmann, Professor of Chymiatria at the University of Marburg.
+<br><br>
+The <cite>Philosophia Reformata</cite> is an edition of the 15th-century alchemical work, <cite>Scala Philosophorum</cite> (Ladder of the Philosophers). It is illustrated with twelve alchemical engravings, including the chemical wedding (see below). This sequence was originally intended to decorate a later work, the <cite>Twelve Keys of Basil Valentine</cite>. The addition of titles which corresponded to the first four steps of the Scala: Calcination, Dissolution, Separation, and Conjunction enabled Mylius to repurpose this sequence for his <cite>Philosophia Reformata</cite>.
+<br><br>
+Alchemy was practiced in Europe as early as the fourteenth century and had reached its zenith by the time the <cite>Philosophia</cite> Reformata was published in the seventeenth century. Alchemy focused on the concept of transmutation, the ability of one element to transform into another. It was a precursor to modern chemistry, and the methods and instruments used had a significant impact on the development of scientific tools.
 <param ve-image 
       label="caption here"
       url="url here">
 
-## 14
-Para
+## 25. The Royal Society 1660 -
+In late 1660, twelve scientifically minded men gathered to discuss philosophy and conduct experiments promoting the benefits of science. These early meetings of practitioners, academics, clergymen, and aristocrats were held at Gresham College in Bishopsgate. 
 <br><br>
+By 1662, the fellowship received Royal Charter from Charles II and the group became known as The Royal Society of London for the Improvement of Natural Knowledge. The society’s motto ‘nullius in verba’ (‘take nobody’s word for it’). 
+<br><br>
+Today the society includes approximately 1,800 members worldwide.
+
 <param ve-image 
-      label="caption here"
+      label="A meeting of the Royal Society in Crane Court.” This image is from George Walter Thornbury’s book “Old and New London, etc.” published in 1887 the picture shows a meeting of the Royal Society with Sir Issac Newton in the President’s Chair. Image courtesy of British Library CC0."
       url="url here">
 
-## 15
-Para
+## 26. John Evelyn 1620-1706 
+Middle Templar John Evelyn was an early Fellow of the Royal Society, writing books on horticulture and air pollution. Admitted to the Inn in 1636, he kept a diary of his time at the Inn until his death in 1706.
 <br><br>
 <param ve-image 
-      label="caption here"
+      label=": Portrait of John Evelyn. T. Bragg after Kneller. Image courtesy of the Wellcome Collection (CC BY 4.0) "
       url="url here">
 
-## 16
-Para
+## 27. The Philosophical Transactions of the Royal Society 1665-
+Published by Henry Oldenburg, the secretary of the Royal Society, <cite>The Philosophical Transactions</cite> are considered one of the world’s first peer-reviewed periodicals. Still in publication today, it also has the distinction of being the longest running English periodical. 
 <br><br>
-<param ve-image 
-      label="caption here"
-      url="url here">
-
-## 17
-Para
+The journal features writings on the natural sciences, reports prepared by the Society, results of experimental research, and essays on scientific topics. 
 <br><br>
+Middle Temple Library’s collection includes publications from <cite>The Philosophical Transactions</cite> from 1665 - 1750. Unfortunately, many copies of the Library’s collection are too fragile to display.
 <param ve-image 
-      label="caption here"
+      label="Library’s collection of The Philosophical Transactions. Photo Beth Flerlage"
       url="url here">
 
-## 18
-Para
+## 28. Philosophical transactions, giving some account of the present undertakings, studies, and labours of the ingenious, in many considerable parts of the world. Vol XLIX Part I 1756
+<cite>An Account of Some Trials to Cure the Ill Taste of Milk, Which is Occasioned by the Food of Cows, Either from Turnips, Cabbages, or Autumnal Leaves, &c. Also to Sweeten Stinking Water, &c. By Stephen Hales, D.D.F.R.S.</cite>
 <br><br>
-<param ve-image 
-      label="caption here"
-      url="url here">
-
-## 19
-Para
+Stephen Hales (1677-1761) was a clergyman and inventor. Elected as a fellow of the Royal Society in 1718, he is credited with the invention of the ventilator. This is a contribution he made to the Society’s journal in 1755. 
 <br><br>
+<cite>An Account of Some Trials to Cure the Ill Taste of Milk was one of Hales’ experiments included in The Philosophical Transactions</cite>. The image illustrates the apparatus Hales used during his trials to improve the sour taste of milk. Hales intended to conduct the study repeatedly following the bovine’s consumption of foods; although, he only could test after the cows were fed ‘crow-garlic cut grass (wild garlic)’ and cabbage. Like many during his day, it was thought “bad air” was the cause of disease. The experiment involved blowing air through warmed milk, which Hales concluded “the taste was a little mended.” 
+
 <param ve-image 
-      label="caption here"
+      label="Image Stephen Hales by James Macardell, after Thomas Hudson 1759 © National Portrait Gallery."
       url="url here">
 
-## 20
-Para
+<param ve-image 
+      label="Image from <cite>An Account of Some Trials to Cure the Ill Taste of Milk, Which is Occasioned by the Food of Cows, Either from Turnips, Cabbages, or Autumnal Leaves, &c. Also to Sweeten Stinking Water, &c.</cite> by Stephen Hales, D.D.F.R.S. for The Philosophical Transactions"
+      url="url here">
+
+## 29. Philosophical transactions, giving some account of the present undertakings, studies, and labours of the ingenious, in many considerable parts of the world. Vol XLVIII, Part I. 1753
+<i>A letter from Mr. John Ellis to Mr. Peter Collinson, F. R. S concerning cluster-polype, found in the sea near the coast of Greenland.</i>
 <br><br>
+John Ellis was a merchant and studied corals. His letter from 1753 was included in this volume of <cite>The Philosophical Transactions</cite>. In it he explains to botanist Peter Collinson the sample Collinson provided is an animal and not a plant as originally thought. The image portrays the dissection of this animal- a polype, a small animal similar to anemones or jellyfish.
+
 <param ve-image 
-      label="caption here"
+      label="Image. Title page of Philosophical transactions, giving some account of the present undertakings, studies, and labours of the ingenious, in many considerable parts of the world. Vol XLVIII, Part I. 1753"
       url="url here">
 
+<param ve-image 
+      label="Image from A letter from Mr. John Ellis to Mr. Peter Collinson, F. R. S concerning cluster-polype, found in the sea near the coast of Greenland."
+      url="url here">
 
-## 21
-Para
+## 30. Rare Book Fund
+Middle Temple Library holds a unique collection of material acquired from the generous donations dating back to the founder of the Library, Robert Ashley, in 1641. Centuries of use have led to wear and tear, with many in urgent need of repair. 
 <br><br>
-<param ve-image 
-      label="caption here"
-      url="url here">
-
-## 22
-Para
+The Book Sponsorship Programme was started in 2007 to help preserve these books for future generations. Books which require restoration range in date from the 16th to 19th centuries, and include a range of subject matter, including early exploration, geography, medicine, science, astronomy, law, religion and history.
 <br><br>
-<param ve-image 
-      label="caption here"
-      url="url here">
-
-## 23
-Para
+Restoration work is carried out by specialist, off-site conservation studios. All the conservators we work with are registered on The Institute of Conservation's Conservation Register.
 <br><br>
+To find out more about the Rare Book Fund and how you can contribute please scan the QR code.
+
 <param ve-image 
-      label="caption here"
+      label="Video of Liane working with Virgil book. Caption Conservator, Liane Owen, removing surface dirt"
       url="url here">
 
-## 24
-Para
+## 31. Works Needing Conservation
+These texts are just some of the examples of items requiring restoration work.
 <br><br>
-<param ve-image 
-      label="caption here"
-      url="url here">
-
-## 25
-Para
+1. Arnoldus Clapmarius, De arcanis rerumpublicarum libri sex, 1611, focuses on political science and public law. It will require approximately £900 worth of repair due to extensive mold damage. 
 <br><br>
-<param ve-image 
-      label="caption here"
-      url="url here">
-
-## 26
-Para
+2. Henri de Heer, Spadacrene. Hoc est, fons spadanus; eius singularia, bibendi modus, medicamina bibentibus necessaria, 1614, is about the therapeutic use of mineral water, with Robert Ashley’s marginal numbering visible in the text. Repairs are estimated to be £500.
 <br><br>
-<param ve-image 
-      label="caption here"
-      url="url here">
-
-## 27
-Para
+3. Cervantes, Le curieux impertinent. El curioso impertinente, 1608, printed in French with original Spanish on facing page. The book will incur costs of approximately £400 to improve the binding and loose pages.
 <br><br>
+4. Anton Francesco Doni, Les mondes, celestes, terrestres et infernaux, 1583, is a book about cosmology with woodcut illustrations. Pages are loose and binding needs repair costing approximately £500.
+
 <param ve-image 
-      label="caption here"
+      label="1. Clapmarius"
       url="url here">
 
-## 28
-Para
-<br><br>
 <param ve-image 
-      label="caption here"
+      label="2. Heer"
       url="url here">
 
-## 29
-Para
-<br><br>
 <param ve-image 
-      label="caption here"
+      label="3. Cervantes"
       url="url here">
 
-## 30
-Para
-<br><br>
 <param ve-image 
-      label="caption here"
+      label="4. Donie"
       url="url here">
-
-## 31
-Para
-<br><br>
-<param ve-image 
-      label="caption here"
-      url="url here">
-
 
 
 ##
