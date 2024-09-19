@@ -338,9 +338,7 @@ Restoration work is carried out by specialist, off-site conservation studios. Al
 <br><br>
 To find out more about the Rare Book Fund and how you can contribute please scan the QR code.
 
-<param ve-image 
-      label="Video of Liane working with Virgil book. Caption Conservator, Liane Owen, removing surface dirt"
-      url="https://github.com/user-attachments/assets/8150e2eb-3a98-4697-95fb-e8443216559e">
+<param ve-video id="MG_icJCVyJU">
 
 ## 31. Works Needing Conservation
 These texts are just some of the examples of items requiring restoration work.
