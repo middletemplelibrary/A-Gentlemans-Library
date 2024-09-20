@@ -24,8 +24,7 @@ While the Inn had a small collection prior to 1540, it was the bequest of Robert
 <br><br>
 Robert Ashley’s legacy is ever present at Middle Temple. The building that the library is currently housed in is named after him and his full-length portrait, which dates to circa 1656. hangs at the back of the Library, watching over the building which houses his collection.
 <br><br>
-If you would like to read more about Robert Ashley’s life, Middle Temple Library’s Dr Renae Satterley has co-written a fascinating article which translates and examines Robert Ashley’s autobiography, Vita. Scan the QR code below to access the article.
-[2. ebljarticle102021 A Transcription and Translation of Sloane MS.2131.pdf](https://github.com/user-attachments/files/17074745/2.ebljarticle102021.A.Transcription.and.Translation.of.Sloane.MS.2131.pdf)
+If you would like to read more about Robert Ashley’s life, Middle Temple Library’s Dr Renae Satterley has co-written a fascinating article which translates and examines Robert Ashley’s autobiography, Vita. [Click here to read <cite>A Transcription and Translation of Sloane MS. 2131, Robert Ashley’s (1565–1641) Vita: with Additional Biographical Details</cite>.](https://github.com/user-attachments/files/17074745/2.ebljarticle102021.A.Transcription.and.Translation.of.Sloane.MS.2131.pdf)
 
 <param ve-image 
       label="caption here"
