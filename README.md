@@ -1,5 +1,4 @@
-# A-Gentlemans-Library
-A Gentleman's Library
+# A Gentleman's Library
 
 <param ve-config 
        title="A Gentleman's Library"
@@ -17,15 +16,16 @@ Welcome to Middle Temple Library’s exhibition, A Gentleman's Library.
 It was common for a learned gentleman to amass a private library consisting of thousands of volumes in the 16th and 17th centuries. Works on theology would have a dominant presence in these personal collections, but texts on history, literature, classics and the natural world would also be prevalent. Anyone engaging in society would accumulate material not only reflecting their professional life, but also the contemporary issues and discussions of the time. Although women were not excluded from education, men were more likely employed in professional fields, such as law, medicine and theology, which required access to books.  This exhibition displays some of Middle Temple Library’s rare books, including those donated from such private collections, visualising what a gentleman’s bookshelf looked like in these earlier centuries.
 
 <param ve-image 
-      label="Image from <cite>The works of Virgil : containing his Pastorals, Georgics, and Æneis </cite> / translated into English verse by Mr Dryden"
+      label="Image from 'The works of Virgil: containing his Pastorals, Georgics, and Æneis', translated into English verse by Mr Dryden"
       url="https://github.com/user-attachments/assets/40195165-ff9f-4f34-a920-a89829f9e895">
 
 ## 2. Middle Temple Library: Beginnings
-While the Inn had a small collection prior to 1540, it was the bequest of Robert Ashley’s collection of circa 5000 books in 1642 which led to the library’s re-founding and expansion. Ashley was admitted to Middle Temple in 1588 and called to the bar in 1595. His collection highlights his interest in a variety of different subject areas including travel, science, medicine, and classical literature. A number of items from his collection are featured in this exhibition, many which feature his handwritten notes. 
+While the Inn had a small collection prior to 1540, it was the bequest of Robert Ashley’s collection of circa 5000 books in 1642 which led to the library’s re-founding and expansion. Ashley was admitted to Middle Temple in 1588 and called to the bar in 1595. His collection highlights his interest in a variety of different subject areas including travel, science, medicine, and classical literature. A number of items from his collection are featured in this exhibition, many which feature his handwritten notes.  
 <br><br>
-Robert Ashley’s legacy is ever present at Middle Temple. The building that the library is currently housed in, is named after him and his full-length portrait which dates to circa 1656 hangs at the back of the Library, watching over the building which houses his collection.
+Robert Ashley’s legacy is ever present at Middle Temple. The building that the library is currently housed in is named after him and his full-length portrait, which dates to circa 1656. hangs at the back of the Library, watching over the building which houses his collection.
 <br><br>
-If you would like to read more about Robert Ashley’s life, Middle Temple Library’s Dr Renae Satterley has co-written a fascinating article which translates and examines Robert Ashley’s autobiography, Vita. 
+If you would like to read more about Robert Ashley’s life, Middle Temple Library’s Dr Renae Satterley has co-written a fascinating article which translates and examines Robert Ashley’s autobiography, Vita. Scan the QR code below to access the article.
+[2. ebljarticle102021 A Transcription and Translation of Sloane MS.2131.pdf](https://github.com/user-attachments/files/17074745/2.ebljarticle102021.A.Transcription.and.Translation.of.Sloane.MS.2131.pdf)
 
 <param ve-image 
       label="caption here"
