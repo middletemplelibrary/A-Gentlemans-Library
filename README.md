@@ -28,11 +28,10 @@ If you would like to read more about Robert Ashley’s life, Middle Temple Libra
 
 <param ve-image 
       label="Title page of 'La cosmographie universelle' by André Thevet (1575). Writing on head of title page in Robert Ashley's hand."
-      url="https://github.com/user-attachments/assets/6df7963f-457a-4af4-9849-6a5772c7794c">
-
+      url="https://github.com/user-attachments/assets/6a2f1af5-3e4e-4771-916a-51e327dc2932">
 <param ve-image 
       label="Portrait of Robert Ashley, circa 1656."
-      url="https://github.com/user-attachments/assets/6a2f1af5-3e4e-4771-916a-51e327dc2932">
+       url="https://github.com/user-attachments/assets/6df7963f-457a-4af4-9849-6a5772c7794c">
 
 ## 3. Middle Temple Library: Early Catalogues
 Middle Temple Library’s first catalogue was produced in 1655. While this original catalogue no longer exists, a later catalogue compiled in c.1683 can be found in the Inn’s Archive. In 1700 the first printed catalogue was compiled by Sir Bartholomew Shower, who was the Inn’s Treasurer at the time. The 1734 catalogue shown below was the first to arrange the collection by author and title.
