@@ -173,7 +173,7 @@ Stow’s interest in rare books and collecting antiquities left him destitute at
       label="Image John Stow by unknown artist. Courtesy of National Portrait Gallery, London"
       url="https://github.com/user-attachments/assets/a51bb49e-2c4d-4bfc-a537-c607eba73d75">
 
-## 15. Campaigns of King William and Queen Anne; from 1689, to 1712 : also, a new system of military discipline, for a battalion of foot and action; with the most essential exercise of the cavalry : adorn'd with a map of the seat of war, and a plan to the exercise 1745 / by Richard Kane
+## 15. <cite>Campaigns of King William and Queen Anne; from 1689, to 1712 : also, a new system of military discipline, for a battalion of foot and action; with the most essential exercise of the cavalry : adorn'd with a map of the seat of war, and a plan to the exercise 1745</cite> by Richard Kane
 Published in 1745, the first portion of the book is author Richard Kane’s memoir, detailing the military campaigns under King William and Queen Anne’s reigns. Kane was a British army officer from Ireland, who fought under John Churchill, the 1st Duke of Marlborough. Writing about victory in Blenheim against the French and Bavarians, Kane says:
 <br><br>
 “I rode thro’ the greatest part of the field of battle, where I made the best remarks and observations to inform myself of it. The loss of the enemy was computed to be about 40,000, killed, drowned, and taken, will all their artillery, tents, and baggage, besides a very great booty. Our army had near 14,000 kill’d and wounded; those under Prince Eugene suffered most. I shall say nothing of as to the consequences that attended this famous battle, more than it decided the fate of the Empire, fixed the Imperial Crown in the House of Austria, and was the first fatal blow that Lewis XIV had received during his whole reign.”
@@ -183,18 +183,18 @@ Published in 1745, the first portion of the book is author Richard Kane’s memo
 The book and map were printed by John Millan, a bookseller who worked in Charing Cross.
 
 <param ve-image 
-      label="Image of map printed by John Millan in <cite>Campaigns of King William and Queen Anne; from 1689, to 1712 : also, a new system of military discipline, for a battalion of foot and action; with the most essential exercise of the cavalry : adorn'd with a map of the seat of war, and a plan to the exercise</cite> 1745 / by Richard Kane"
+      label="Image of map printed by John Millan in 'Campaigns of King William and Queen Anne; from 1689, to 1712 : also, a new system of military discipline, for a battalion of foot and action; with the most essential exercise of the cavalry : adorn'd with a map of the seat of war, and a plan to the exercise 1745' by Richard Kane"
       url="https://github.com/user-attachments/assets/c7d724b7-5ead-43dd-8665-be4b5ab6bc19">
 
 ## 16. Travel Literature
 From the second half of the fifteen century major voyages to Africa, America and Asia led to the expansion of geographical knowledge in Europe. Sixteenth century travel books such as these by André Thevet constituted the origins of the science of ethnology. They also provided a number of European countries with what they believed was justification for colonialism. 
 <br><br>
 <param ve-image 
-      label="Depiction of Sea Hunt from Book One of La Cosmographie Universelle (1575)."
+      label="Depiction of Sea Hunt from Book One of 'La Cosmographie Universelle' (1575)."
       url="https://github.com/user-attachments/assets/4c70ed10-7330-4b7e-b0ea-a1e969202e15">
 
-## 17. Andre Thevet (1502-1590), La Cosmographie Universelle (1575) From the collection of Robert Ashley (1565-1641)
-<cite>La Cosmographie Universelle</cite>'s two volumes contain over one thousand pages divided into twenty-three books. The work is divided into four sections which correspond to the four continents. As well as maps and depictions of the indigenous people and architectural wonders, the illustrations also include depictions of exotic animals and plants.
+## 17. Andre Thevet (1502-1590), <cite>La Cosmographie Universelle</cite> (1575) From the collection of Robert Ashley (1565-1641)
+<cite>La Cosmographie Universelle</cite>’s two volumes contain over one thousand pages divided into twenty-three books. The work is divided into four sections which correspond to the four continents. As well as maps and depictions of the indigenous people and architectural wonders, the illustrations also include depictions of exotic animals and plants.
 <br><br>
 The artwork on display (page 941) is of a “haut”. It has been identified with a species of three-toed sloths such as Bradypus variegatus which are found in the forests of Central and South America (See the image below). This woodcut is from chapter thirteen of book twenty-one.
 <param ve-image 
@@ -205,8 +205,8 @@ The artwork on display (page 941) is of a “haut”. It has been identified wit
       label="Photo of three-toed sloth, photograph by Natural History on the Net."
       url="https://github.com/user-attachments/assets/141cfc5d-8173-4351-8082-d51d0af22606">
 
-## 18. Andre Thevet (1502-1590), La Cosmographie De Levant (1556) From the collection of Robert Ashley (1565-1641)
-<cite>La Cosmographie de Levant</cite> was published in Lyon, in 1556 shortly after Thevet returned from his voyage to the near East. Within the text Thevet describes the lands, people and animals of Asia, Egypt, Greece, Palestine and Rhodes. The woodcuts which include depictions of animals, hunting scenes and antiquities amongst other things are by the French painter and draftsman Bernard Salomon, also known as “Le Petit Bernard” (1506 - c. 1561).
+## 18. Andre Thevet (1502-1590), <cite>La Cosmographie De Levant</cite> (1556) From the collection of Robert Ashley (1565-1641)
+<cite>La Cosmographie de Levant</cite> was published in Lyon, in 1556 shortly after Thevet returned from his voyage to the near East. Within the text, Thevet describes the lands, people and animals of Asia, Egypt, Greece, Palestine and Rhodes. The woodcuts which include depictions of animals, hunting scenes and antiquities amongst other things are by the French painter and draftsman Bernard Salomon, also known as “Le Petit Bernard” (1506 - c. 1561).
 <br><br>
 The artwork on display on page 105 is a reconstruction of the Colossus of Rhodes which is discussed in the work. This bronze statue of Helios, the Greek sun god was constructed in the third century B.C. and was one of the Seven Wonders of the Ancient World. While we will never know how tall the statue exactly was, a recent study by Robert B. Kebric suggests that it measured at least 110 feet with its pedestal adding another fifty feet, making its combined hight around 160 feet, about half the height of the Statue of Liberty. The statue which stood at the apex of the acropolis of Rhodes was built as an offering to Helios, the island’s patron deity. Unfortunately, the statue collapsed during the Rhodes earthquake of 226 B.C. A first-century AD description of the Colossus’ remains can be found in Roman writer, Pliny the Elder’s encyclopaedic work, the <cite>Natural History</cite>.
 <br><br>
@@ -215,18 +215,18 @@ The artwork on display on page 105 is a reconstruction of the Colossus of Rhodes
 Translated by John Bostock, M.D., F.R.S. H.T. Riley, Esq.
 
 <param ve-image 
-      label="Colossus of Rhodes reconstruction from Andre Thevet (1502-1590), La Cosmographie De Levant (1556)."
+      label="Colossus of Rhodes reconstruction from Andre Thevet (1502-1590), 'La Cosmographie De Levant' (1556)."
       url="https://github.com/user-attachments/assets/5ca08298-30cd-4414-b6e9-d6c99966b4bc">
 
 ## 19. André Thevet (1516 - c. 1592)
 Both of these works were written by traveller André Thevet. Thevet was a Domenican Friar and the “Cosmographe du Roy” (Royal Cosmographer of France) for the last four Valois monarchs. He was born in Angoulême, France in 1516. His father, Étienne Thevet, was a barber-surgeon. At the age of ten, he entered the Franciscan convent of Angoulême
 <br><br>
-Thevet travelled the Orient for five or six years from c. 1537. He claimed to have visited America in 1550 with the pilot Guillaume Testu, however this statement is now generally considered to be false. He also visited Brazil from November 1555 to January 1556 as almoner to Villegaignon, the vice-admiral of Brittany. The aim of the visit was to establish a new French colony. 
+Thevet travelled the Orient for five or six years from c. 1537. He claimed to have visited America in 1550 with the pilot Guillaume Testu; however, this statement is now generally considered to be false. He also visited Brazil from November 1555 to January 1556 as almoner to Villegaignon, the vice-admiral of Brittany. The aim of the visit was to establish a new French colony. 
 <br><br>
 Thevet died in Paris in c. 1592.
 
 <param ve-image 
-      label="Portrait of André Thévet, from Les Vrais Pourtraits et Vies des Hommes Illustres (Paris, 1584). © The Trustees of the British Museum"
+      label="Portrait of André Thévet, from 'Les Vrais pourtraits et vies des hommes illustres' (Paris, 1584). © The Trustees of the British Museum"
       url="https://github.com/user-attachments/assets/2ee6b053-dd2d-4a47-b04f-6ac314f0900d">
 
 ## 20. Religious Literature in the Early Modern Period
@@ -238,12 +238,12 @@ The Reformation made an enormous impact on the lives of those who lived during t
 
 
 ## 21. Robert Salter, <cite>Wonderfull prophecies from the beginning of the monarchy of this land</cite> (1627)
-Robert Salter’s <cite>Wonderfull Prophecies from the Beginning of the Monarchy of this Land</cite> was printed by William Iones dwelling in Red-crosse streete in 1627. Within the text, Salter delves into a number of intriguing biblical narratives, such as <cite>The Idol Bel and the Dragon, and Daniel in the Den of Lions</cite> suggesting that they contain various hidden prophecies.
+Robert Salter’s <cite>Wonderfull Prophecies from the Beginning of the Monarchy of this Land</cite> was printed by William Iones dwelling in Red-crosse streete in 1627. Within the text, Salter delves into a number of intriguing biblical narratives, such as <cite>The Idol Bel and the Dragon</cite>, and <cite>Daniel in the Den of Lions</cite> suggesting that they contain various hidden prophecies.
 <br><br>
-The work also explores the significance of contemporary events, including the appearance of a comet, and how they align with these prophecies.
+The work also explores the significance of contemporary events, including the appearance of a comet and how they align with these prophecies.
 
 ## 22. Francesco Maria Guazzo, <cite>Compendium Maleficarum (Collection of the Evil Deeds of Witchcraft)</cite> (1626) From the collection of Robert Ashley (1565-1641)
-The <cite>Compendium Maleficarum</cite> was first published in Milan in 1608. This second edition which expanded on the earlier work was published by the Stamperia del Collegio Ambrosiano in 1626. The work which is an encyclopaedic survey of witchcraft and demonology was fully approved by the ecclesiastical authorities. 
+The <cite>Compendium Maleficarum</cite> was first published in Milan in 1608. This second edition, which expanded on the earlier work, was published by the Stamperia del Collegio Ambrosiano in 1626. The work, which is an encyclopaedic survey of witchcraft and demonology, was fully approved by the ecclesiastical authorities. 
 <br><br>
 We know little of Guazzo apart from that he was born in northern Italy in around 570 and that he was a theology lecturer for the order of Saint Barnaba and Saint Ambrose ad Nemus who are known to have specialised in exorcism. In the early seventeenth century, he visited a number of European courts to assist in trials for witchcraft and cases of demonic possession.
 <br><br>
@@ -251,7 +251,7 @@ This second wave of witch trials in Italy took place during the Counter-Reformat
 <br><br>
 The <cite>Compendium Maleficarum</cite> provides the reader with lengthy descriptions of witches’ crimes, as well as instructions on how to recognise and defend oneself against them. Rather than blaming the witches for their crimes Guazzo suggests that they are the devil’s victims rather than intentional perpetrators of evil.
 <param ve-image 
-      label="Francesco Maria Guazzo, Compendium Maleficarum (Collection of the Evil Deeds of Witchcraft) (1626)."
+      label="Francesco Maria Guazzo, 'Compendium Maleficarum' (Collection of the Evil Deeds of Witchcraft) (1626)."
       url="https://github.com/user-attachments/assets/a2b336d7-fbb8-4cda-b10a-9869069951a3">
 
 ## 23. Science
@@ -259,17 +259,17 @@ The practice of alchemy represents man’s early attempt to understand the natur
 <br><br>
 Many of the early fellows of the Royal Society were also interested in alchemy; they described themselves as natural philosophers- educated, professional men of gentry. Like alchemist before them, they conducted experiments and published their findings in the journal <cite>Philosophical Transactions of the Royal Society</cite>.
 <param ve-image 
-      label="An elderly alchemist sitting next to his equipment.” Engraving by C. Weigel, 1698. Courtesy of the Wellcome Collection Public Domain "
+      label="Image An elderly alchemist sitting next to his equipment.” Engraving by C. Weigel, 1698. Courtesy of the Wellcome Collection Public Domain "
       url="https://github.com/user-attachments/assets/0c1f0984-fe38-4b50-bdd0-a6475456af7d">
 
-## 24. Johann Daniel Mylius (1583-1642), Philosophia Reformata (1622) From the collection of Robert Ashley (1565-1641)
+## 24. Johann Daniel Mylius (1583-1642), <cite>Philosophia Reformata</cite> (1622) From the collection of Robert Ashley (1565-1641)
 This edition of Johann Daniel Mylius’ <cite>Philosophia Reformata</cite> was published in Frankfurt in 1622. Mylius who was born in Wetter, Germany was a composer and writer of alchemy. He was the brother-in-law and student of Johann Hartmann, Professor of Chymiatria at the University of Marburg.
 <br><br>
-The <cite>Philosophia Reformata</cite> is an edition of the 15th-century alchemical work, <cite>Scala Philosophorum</cite> (Ladder of the Philosophers). It is illustrated with twelve alchemical engravings, including the chemical wedding (see below). This sequence was originally intended to decorate a later work, the <cite>Twelve Keys of Basil Valentine</cite>. The addition of titles which corresponded to the first four steps of the Scala: Calcination, Dissolution, Separation, and Conjunction enabled Mylius to repurpose this sequence for his <cite>Philosophia Reformata</cite>.
+The <cite>Philosophia Reformata</cite> is an edition of the 15th-century alchemical work, Scala Philosophorum (Ladder of the Philosophers). It is illustrated with twelve alchemical engravings, including the chemical wedding (see below). This sequence was originally intended to decorate a later work, the <cite>Twelve Keys of Basil Valentine</cite>. The addition of titles which corresponded to the first four steps of the Scala: Calcination, Dissolution, Separation, and Conjunction enabled Mylius to repurpose this sequence for his <cite>Philosophia Reformata</cite>.
 <br><br>
-Alchemy was practiced in Europe as early as the fourteenth century and had reached its zenith by the time the <cite>Philosophia</cite> Reformata was published in the seventeenth century. Alchemy focused on the concept of transmutation, the ability of one element to transform into another. It was a precursor to modern chemistry, and the methods and instruments used had a significant impact on the development of scientific tools.
+Alchemy was practiced in Europe as early as the fourteenth century and had reached its zenith by the time the <cite>Philosophia Reformata</cite> was published in the seventeenth century. Alchemy focused on the concept of transmutation, the ability of one element to transform into another. It was a precursor to modern chemistry, and the methods and instruments used had a significant impact on the development of scientific tools.
 <param ve-image 
-      label="caption here"
+      label="Image from the 'Philosophia Reformata' (1622)."
       url="https://github.com/user-attachments/assets/c92a8624-3218-414f-a835-1ce0a834ddc5">
 
 ## 25. The Royal Society 1660 -
@@ -287,7 +287,7 @@ Today the society includes approximately 1,800 members worldwide.
 Middle Templar John Evelyn was an early Fellow of the Royal Society, writing books on horticulture and air pollution. Admitted to the Inn in 1636, he kept a diary of his time at the Inn until his death in 1706.
 <br><br>
 <param ve-image 
-      label=": Portrait of John Evelyn. T. Bragg after Kneller. Image courtesy of the Wellcome Collection (CC BY 4.0) "
+      label="Portrait of John Evelyn. T. Bragg after Kneller. Image courtesy of the Wellcome Collection (CC BY 4.0)"
       url="https://github.com/user-attachments/assets/5a26d6ca-553b-4f9b-abd7-49d729014cef">
 
 ## 27. The Philosophical Transactions of the Royal Society 1665-
@@ -297,35 +297,35 @@ The journal features writings on the natural sciences, reports prepared by the S
 <br><br>
 Middle Temple Library’s collection includes publications from <cite>The Philosophical Transactions</cite> from 1665 - 1750. Unfortunately, many copies of the Library’s collection are too fragile to display.
 <param ve-image 
-      label="Library’s collection of The Philosophical Transactions. Photo Beth Flerlage"
+      label="Library’s collection of 'The Philosophical Transactions'. Photo Beth Flerlage"
       url="https://github.com/user-attachments/assets/cd3dedd0-e841-4d68-b23b-18810b8fdb83">
 
-## 28. Philosophical transactions, giving some account of the present undertakings, studies, and labours of the ingenious, in many considerable parts of the world. Vol XLIX Part I 1756
+## 28. <cite>Philosophical transactions, giving some account of the present undertakings, studies, and labours of the ingenious, in many considerable parts of the world. Vol XLIX Part I 1756</cite>
 <cite>An Account of Some Trials to Cure the Ill Taste of Milk, Which is Occasioned by the Food of Cows, Either from Turnips, Cabbages, or Autumnal Leaves, &c. Also to Sweeten Stinking Water, &c. By Stephen Hales, D.D.F.R.S.</cite>
 <br><br>
 Stephen Hales (1677-1761) was a clergyman and inventor. Elected as a fellow of the Royal Society in 1718, he is credited with the invention of the ventilator. This is a contribution he made to the Society’s journal in 1755. 
 <br><br>
-<cite>An Account of Some Trials to Cure the Ill Taste of Milk was one of Hales’ experiments included in The Philosophical Transactions</cite>. The image illustrates the apparatus Hales used during his trials to improve the sour taste of milk. Hales intended to conduct the study repeatedly following the bovine’s consumption of foods; although, he only could test after the cows were fed ‘crow-garlic cut grass (wild garlic)’ and cabbage. Like many during his day, it was thought “bad air” was the cause of disease. The experiment involved blowing air through warmed milk, which Hales concluded “the taste was a little mended.” 
+<cite>An Account of Some Trials to Cure the Ill Taste of Milk</cite> was one of Hales’ experiments included in The Philosophical Transactions. The image illustrates the apparatus Hales used during his trials to improve the sour taste of milk. Hales intended to conduct the study repeatedly following the bovine’s consumption of foods; although, he only could test after the cows were fed ‘crow-garlic cut grass (wild garlic)’ and cabbage. Like many during his day, it was thought “bad air” was the cause of disease. The experiment involved blowing air through warmed milk, which Hales concluded “the taste was a little mended.” 
 
 <param ve-image 
       label="Image Stephen Hales by James Macardell, after Thomas Hudson 1759 © National Portrait Gallery."
       url="https://github.com/user-attachments/assets/5cb86348-c44d-4f6b-9479-b54ef9eea260">
 
 <param ve-image 
-      label="Image from <cite>An Account of Some Trials to Cure the Ill Taste of Milk, Which is Occasioned by the Food of Cows, Either from Turnips, Cabbages, or Autumnal Leaves, &c. Also to Sweeten Stinking Water, &c.</cite> by Stephen Hales, D.D.F.R.S. for The Philosophical Transactions"
+      label="Image from 'An Account of Some Trials to Cure the Ill Taste of Milk, Which is Occasioned by the Food of Cows, Either from Turnips, Cabbages, or Autumnal Leaves, &c. Also to Sweeten Stinking Water, &c'. by Stephen Hales, D.D.F.R.S. for 'The Philosophical Transactions'"
       url="https://github.com/user-attachments/assets/ec6d3764-b49d-4dc3-aa81-a730e0933515">
 
-## 29. Philosophical transactions, giving some account of the present undertakings, studies, and labours of the ingenious, in many considerable parts of the world. Vol XLVIII, Part I. 1753
+## 29. <cite>Philosophical transactions, giving some account of the present undertakings, studies, and labours of the ingenious, in many considerable parts of the world</cite>. Vol XLVIII, Part I. 1753
 <i>A letter from Mr. John Ellis to Mr. Peter Collinson, F. R. S concerning cluster-polype, found in the sea near the coast of Greenland.</i>
 <br><br>
 John Ellis was a merchant and studied corals. His letter from 1753 was included in this volume of <cite>The Philosophical Transactions</cite>. In it he explains to botanist Peter Collinson the sample Collinson provided is an animal and not a plant as originally thought. The image portrays the dissection of this animal- a polype, a small animal similar to anemones or jellyfish.
 
 <param ve-image 
-      label="Image. Title page of Philosophical transactions, giving some account of the present undertakings, studies, and labours of the ingenious, in many considerable parts of the world. Vol XLVIII, Part I. 1753"
+      label="Image. Title page of 'Philosophical transactions, giving some account of the present undertakings, studies, and labours of the ingenious, in many considerable parts of the world'. Vol XLVIII, Part I. 1753"
       url="https://github.com/user-attachments/assets/d8b72c62-4bba-4609-a721-7395b90aa808">
 
 <param ve-image 
-      label="Image from A letter from Mr. John Ellis to Mr. Peter Collinson, F. R. S concerning cluster-polype, found in the sea near the coast of Greenland."
+      label="Image from 'A letter from Mr. John Ellis to Mr. Peter Collinson, F. R. S concerning cluster-polype, found in the sea near the coast of Greenland'."
       url="https://github.com/user-attachments/assets/2f983864-e0cf-4b4a-8530-cf14562d36f3">
 
 ## 30. Rare Book Fund
