@@ -337,18 +337,19 @@ Restoration work is carried out by specialist, off-site conservation studios. Al
 <br><br>
 To find out more about the Rare Book Fund and how you can contribute please scan the QR code.
 
-<param ve-video id="MG_icJCVyJU">
+<param ve-video id="MG_icJCVyJU"
+       label="Video of Liane working with Virgil book. Caption Conservator, Liane Owen, removing surface dirt">
 
 ## 31. Works Needing Conservation
 These texts are just some of the examples of items requiring restoration work.
 <br><br>
-1. Arnoldus Clapmarius, De arcanis rerumpublicarum libri sex, 1611, focuses on political science and public law. It will require approximately £900 worth of repair due to extensive mold damage. 
+1. <cite>Arnoldus Clapmarius, De arcanis rerumpublicarum libri sex</cite>, 1611, focuses on political science and public law. It will require approximately £900 worth of repair due to extensive mold damage. 
 <br><br>
-2. Henri de Heer, Spadacrene. Hoc est, fons spadanus; eius singularia, bibendi modus, medicamina bibentibus necessaria, 1614, is about the therapeutic use of mineral water, with Robert Ashley’s marginal numbering visible in the text. Repairs are estimated to be £500.
+2. Henri de Heer, <cite>Spadacrene. Hoc est, fons spadanus; eius singularia, bibendi modus, medicamina bibentibus necessaria</cite>, 1614, is about the therapeutic use of mineral water, with Robert Ashley’s marginal numbering visible in the text. Repairs are estimated to be £500.
 <br><br>
-3. Cervantes, Le curieux impertinent. El curioso impertinente, 1608, printed in French with original Spanish on facing page. The book will incur costs of approximately £400 to improve the binding and loose pages.
+3. Cervantes, <cite>Le curieux impertinent. El curioso impertinente</cite>, 1608, printed in French with original Spanish on facing page. The book will incur costs of approximately £400 to improve the binding and loose pages.
 <br><br>
-4. Anton Francesco Doni, Les mondes, celestes, terrestres et infernaux, 1583, is a book about cosmology with woodcut illustrations. Pages are loose and binding needs repair costing approximately £500.
+4. Anton Francesco Doni, <cite>Les mondes, celestes, terrestres et infernaux</cite>, 1583, is a book about cosmology with woodcut illustrations. Pages are loose and binding needs repair costing approximately £500.
 
 <param ve-image 
       label="1. Clapmarius"
