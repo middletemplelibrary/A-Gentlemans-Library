@@ -27,11 +27,11 @@ Robert Ashley’s legacy is ever present at Middle Temple. The building that the
 If you would like to read more about Robert Ashley’s life, Middle Temple Library’s Dr Renae Satterley has co-written a fascinating article which translates and examines Robert Ashley’s autobiography, Vita. [Click here to read <cite>A Transcription and Translation of Sloane MS. 2131, Robert Ashley’s (1565–1641) Vita: with Additional Biographical Details</cite>.](https://github.com/user-attachments/files/17074745/2.ebljarticle102021.A.Transcription.and.Translation.of.Sloane.MS.2131.pdf)
 
 <param ve-image 
-      label="caption here"
+      label="Title page of 'La cosmographie universelle' by André Thevet (1575). Writing on head of title page in Robert Ashley's hand."
       url="https://github.com/user-attachments/assets/6df7963f-457a-4af4-9849-6a5772c7794c">
 
 <param ve-image 
-      label="caption here"
+      label="Portrait of Robert Ashley, circa 1656."
       url="https://github.com/user-attachments/assets/6a2f1af5-3e4e-4771-916a-51e327dc2932">
 
 ## 3. Middle Temple Library: Early Catalogues
