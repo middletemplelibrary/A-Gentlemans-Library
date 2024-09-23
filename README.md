@@ -24,7 +24,7 @@ While the Inn had a small collection prior to 1540, it was the bequest of Robert
 <br><br>
 Robert Ashley’s legacy is ever present at Middle Temple. The building that the library is currently housed in is named after him and his full-length portrait, which dates to circa 1656. hangs at the back of the Library, watching over the building which houses his collection.
 <br><br>
-If you would like to read more about Robert Ashley’s life, Middle Temple Library’s Dr Renae Satterley has co-written a fascinating article which translates and examines Robert Ashley’s autobiography, Vita. [Click here to read <cite>A Transcription and Translation of Sloane MS. 2131, Robert Ashley’s (1565–1641) Vita: with Additional Biographical Details</cite>.](https://github.com/user-attachments/files/17074745/2.ebljarticle102021.A.Transcription.and.Translation.of.Sloane.MS.2131.pdf)
+If you would like to read more about Robert Ashley’s life, Middle Temple Library’s Dr Renae Satterley has co-written a fascinating article which translates and examines Robert Ashley’s autobiography, <cite>Vita</cite>. [Click here to read <cite>A Transcription and Translation of Sloane MS. 2131, Robert Ashley’s (1565–1641) Vita: with Additional Biographical Details</cite>.](https://github.com/user-attachments/files/17074745/2.ebljarticle102021.A.Transcription.and.Translation.of.Sloane.MS.2131.pdf)
 
 <param ve-image 
       label="Title page of 'La cosmographie universelle' by André Thevet (1575). Writing on head of title page in Robert Ashley's hand."
@@ -34,23 +34,23 @@ If you would like to read more about Robert Ashley’s life, Middle Temple Libra
        url="https://github.com/user-attachments/assets/6df7963f-457a-4af4-9849-6a5772c7794c">
 
 ## 3. Middle Temple Library: Early Catalogues
-Middle Temple Library’s first catalogue was produced in 1655. While this original catalogue no longer exists, a later catalogue compiled in c.1683 can be found in the Inn’s Archive. In 1700 the first printed catalogue was compiled by Sir Bartholomew Shower, who was the Inn’s Treasurer at the time. The 1734 catalogue shown below was the first to arrange the collection by author and title.
+Middle Temple Library’s first catalogue was produced in 1655. While this original catalogue no longer exists, a later catalogue compiled in c.1683 can be found in the Inn’s Archive. In 1700 the first printed catalogue was compiled by Sir Bartholomew Shower, who was the Inn’s Treasurer at the time. The 1734 catalogue shown below was the first to arrange the collection by author and title
 <br><br>
 <param ve-image 
       label="Middle Temple Library Catalogue, 1734."
       url="https://github.com/user-attachments/assets/296780ed-28bd-40a9-9393-52598c787b09">
 
 ## 4. The Ancient World
-The rise of the humanist movement in the Renaissance period led to a revived interest in the classical world. Humanists believed that the study of the ancient world was integral to a well-rounded education. The teachings of fifteenth century Italian humanist schools were based on the works of Classical authors such as Cicero, Plato and Virgil and also incorporated the study of ancient art, as well as Latin and philology. In the sixteenth century the Humanist educational curriculum spread throughout Europe and became the model for the schooling of European elites.
+The rise of the humanist movement in the Renaissance period led to a revived interest in the classical world. Humanists believed that the study of the ancient world was integral to a well-rounded education. The teachings of fifteenth century Italian humanist schools were based on the works of Classical authors such as Cicero, Plato and Virgil and incorporated the study of ancient art, as well as Latin and philology. In the sixteenth century the Humanist educational curriculum spread throughout Europe and became the model for the schooling of European elites.
 <br><br>
-From the late sixteenth until the nineteenth century young wealthy European elites would also often embark on a Grand Tour which entailed a lengthy excursion to Europe’s ancient sites. The tour which could last for anything from a few months to a number of years would often include visits to locations such as Rome, Florence, Naples, Athens and Sicily. While the aim of the tour was to take in ancient sites and art as well as languages and literature, these trips also enabled elite young men to enter fashionable and aristocratic European society. 
+From the late sixteenth until the nineteenth century, young wealthy European elites would also often embark on a Grand Tour, which entailed a lengthy excursion to Europe’s ancient sites. The tour could last for a few months to a number of years and would often include visits to locations such as Rome, Florence, Naples, Athens and Sicily. While the aim of the tour was to take in ancient sites and art as well as languages and literature, these trips also enabled elite young men to enter fashionable and aristocratic European society. 
 
 <param ve-image 
-      label="Image from <cite>The works of Virgil: Containing his Pastorals, Georgics, and Aeneis</cite> (1697), translated by John Dryden"
+      label="Image from 'The Works of Virgil: Containing his Pastorals, Georgics, and Aeneis' (1697), translated by John Dryden"
       url="https://github.com/user-attachments/assets/de3636ba-2439-4dd1-9b4b-b9dfa60d776c">
 
 ## 5. Virgil, <cite>The works of Virgil: Containing his Pastorals, Georgics, and Aeneis (1697)</cite>, translated by John Dryden
-<i>“Arms, and the man I sing, who, forc'd by fate,
+<i>““Arms, and the man I sing, who, forc'd by fate,
 And haughty Juno's unrelenting hate,
 Expell'd and exil'd, left the Trojan shore.
 Long labors, both by sea and land, he bore,
@@ -63,38 +63,38 @@ Translated by John Dryden
 <br><br>
 This collection of Virgil’s works was printed at “at the Fudges-Head in Fleet Street, near the Inner-Temple-Gate” in 1697. It was translated by the English poet and playwright, John Dryden. 
 <br><br>
-Virgil was born in the village of Andes, in northern Italy, in 44 BC. The <cite>Aeneid</cite>, which was written to praise Augustus, the first emperor of Rome is a Roman imitation of the Greek Homeric poems, the <cite>Iliad</cite> and the <cite>Odyssey</cite>. The poem was never finished as Virgil died in 19 BC while travelling back from Athens with Augustus. Virgil had left instructions that the poem be burned, however Augustus overruled his wishes and the poem was saved.
+Virgil was born in the village of Andes, in northern Italy, in 44 BC. The <cite>Aeneid</cite>, which was written to praise Augustus, the first emperor of Rome is a Roman imitation of the Greek Homeric poems, the <cite>Iliad</cite> and the <cite>Odyssey</cite>. The poem was never finished as Virgil died in 19 BC while travelling back from Athens with Augustus. Virgil had left instructions that the poem be burned; however, Augustus overruled his wishes and the poem was saved.
 <br><br>
-Virgil's works have greatly influenced Western literature. Most notably the Divine Comedy of Dante, in which Virgil appears as the Dante’s guide through Hell and Purgatory.
+Virgil's works have greatly influenced Western literature- most notably, the <cite>Divine Comedy of Dante</cite>, in which Virgil appears as the Dante’s guide through Hell and Purgatory.
 
 <param ve-image 
-      label="caption here"
+      label="Image from 'The Works of Virgil' (1697)"
       url="https://github.com/user-attachments/assets/15fa50b8-83e9-45f4-995c-c04a949ff9de">
 
-## 6. Apuleius, <cite>Les metamorphoses ou l'asne dor</cite> (1623), translated by Chez Samuel Thibous From the collection of Robert Ashley (1565-1641)
-This French translation of Roman writer and philosopher, Apuleius’ <cite>The Metamorphoses</cite> or <cite>The Golden Ass</cite> was published in Paris in 1623. The title <cite>Metamorphoses</cite> comes from an eleventh century manuscript however, Augustine tells us that Apuleius himself used the title <cite>Asinus Aureus</cite> (CD 18.18). The tale which is believed to have been inspired by a now lost Greek story, is the only ancient Roman novel which survives in its entirety. Within the fable its hero Lucius’ obsession with sex and magic leads to him being transformed into an ass by the witch, Pamphile. After surviving a number of trials and ordeals he is finally transformed back into his human form by the goddess Isis.
+## 6. Apuleius, <cite>Les metamorphoses ou l'Asne dor</cite> (1623), translated by Chez Samuel Thibous From the collection of Robert Ashley (1565-1641)
+This French translation of Roman writer and philosopher, Apuleius’ <cite>The Metamorphoses</cite> or <cite>The Golden Ass</cite> was published in Paris in 1623. The title <cite>Metamorphoses</cite> comes from an eleventh century manuscript; however, Augustine tells us that Apuleius himself used the title <cite>Asinus Aureus</cite> (CD 18.18). The tale, which is believed to have been inspired by a now lost Greek story, is the only ancient Roman novel which survives in its entirety. Within the fable, its hero Lucius’ obsession with sex and magic leads to him being transformed into an ass by the witch, Pamphile. After surviving a number of trials and ordeals he is finally transformed back into his human form by the goddess Isis.
 <br><br>
 The novel inspired a number of works by sixteenth and seventeenth century writers including Spencer’s <cite>The Faerie Queen</cite>, Marlowe’s <cite>Hero and Leander</cite>, Sidney’s <cite>Arcadia</cite>, Milton’s <cite>Paradise Regained</cite>, and most famously, Shakespeare’s <cite>A Midsummer Night’s Dream</cite>. 
 
 <param ve-image 
-      label="Image from Les Metamorphoses ou l'Asne Dor (1623). "
+      label="Image from 'Les Metamorphoses ou l'Asne dor' (1623). "
       url="https://github.com/user-attachments/assets/91ddf652-aa22-420f-9b04-f75f648bb19b">
       
 ## 7. A Fable Within a Fable: <cite>Cupid and Psyche</cite> in Apuleius’ <cite>The Golden Ass</cite>
-By the end of Book 3 the story’s protagonist Lucius has been magically transformed into a Donkey. Following a series of unfortunate events, he finds himself imprisoned in a Bandits’ hideout alongside a young woman who has been taken hostage by the robbers.  The young woman after waking from a terrifying dream is distracted from her night terrors by an ‘old wife’s tale’ told to her by an ‘old hag’ who lives with the bandits. The tale which takes up three central chapters of Apuleius’ fable is that of Cupid and Psyche. 
+By the end of Book 3 the story’s protagonist Lucius has been magically transformed into a donkey. Following a series of unfortunate events, he finds himself imprisoned in bandits’ hideout alongside a young woman who has been taken hostage by the robbers.  The young woman after waking from a terrifying dream is distracted from her night terrors by an ‘old wife’s tale’ told to her by an ‘old hag’ who lives with the bandits. The tale which takes up three central chapters of Apuleius’ fable is that of Cupid and Psyche. 
 <br><br>
-The fable’s themes of a young girl with two jealous sisters who is courted by an enchanted suiter, rumoured to be a monster as well as the impossible trials which are imposed upon her by have parallels in the folk tales of many cultures. 
+The fable’s themes of a young girl with two jealous sisters who is courted by an enchanted suiter, rumoured to be a monster as well as the impossible trials, which are imposed upon her by have parallels in the folk tales of many cultures. 
 <br><br>
-<i>“Then Psyche, though enfeebled in both body and mind, gained the strength lent her by fate’s harsh decree. She uncovered the lamp, seized the razer, and showed a boldness that belied her sex. But as soon as the lamp was brought near, and the secrets of the couch were revealed, she beheld of all beasts the gentlest and sweetest, Cupid himself, a handsome god lying in a handsome posture (Apuleius, The Golden Ass 5.22).”</i>
+<i>“Then Psyche, though enfeebled in both body and mind, gained the strength lent her by fate’s harsh decree. She uncovered the lamp, seized the razer, and showed a boldness that belied her sex. But as soon as the lamp was brought near, and the secrets of the couch were revealed, she beheld of all beasts the gentlest and sweetest, Cupid himself, a handsome god lying in a handsome posture (Apuleius, 'The Golden Ass' 5.22).”</i>
 <br><br>
 Translated by P. G. Walsh
 
 <param ve-image 
-      label="Image from <cite>Les Metamorphoses ou l'Asne Dor</cite> (1623). "
+      label="Image from <cite>Les Metamorphoses ou l'Asne dor</cite> (1623). "
       url="https://github.com/user-attachments/assets/1683a389-ce98-4a7e-9720-5397f603f2ce">
       
 ## 8. Apuleius (mid-120 AD -?)
-Apuleius was born in the mid-120s AD in Madauros, an ancient Roman city in Numidia (modern day Algeria). His father was a <i>duumvir</i>, one of the Roman colony’s two chief magistrates. Apuleius’ education took him to both Carthage where he studied philosophy and to Greece where he gained a wide knowledge of Greek literature and culture. At the age of thirty Apuleius visited Egypt where he fell ill on his way to Alexandria. He was encouraged by Pontius, an acquaintance he made while studying in Athens, to stay in his family home in Oea (modern day Tripoli). Whilst staying with the family Apuleius began a relationship with Pontius’ mother Pudentilla, claiming he loved the wealthy widow for her “sterling qualities”. However, Pudentilla’s father, Herennius Rufus objected to the match and persuaded Sicinius Aemilianus, the brother of her first husband to indict Apuleius on a charge of magic which was punishable by death. The trial was held before proconsul, Claudius Maximus in 158-9 AD. Apuleius defended himself in the trial with a speech, which has survived and is commonly known as the <i>Apologia</i>. He successfully secured his acquittal.
+Apuleius was born in the mid-120s AD in Madauros, an ancient Roman city in Numidia (modern day Algeria). His father was a <i>duumvir</i>, one of the Roman colony’s two chief magistrates. Apuleius’ education took him to both Carthage where he studied philosophy and to Greece where he gained a wide knowledge of Greek literature and culture. At the age of thirty, Apuleius visited Egypt where he fell ill on his way to Alexandria. He was encouraged by Pontius, an acquaintance he made while studying in Athens, to stay in his family home in Oea (modern day Tripoli). Whilst staying with the family Apuleius began a relationship with Pontius’ mother Pudentilla, claiming he loved the wealthy widow for her “sterling qualities”. However, Pudentilla’s father, Herennius Rufus objected to the match and persuaded Sicinius Aemilianus, the brother of her first husband, to indict Apuleius on a charge of magic which was punishable by death. The trial was held before proconsul, Claudius Maximus in 158-9 AD. Apuleius defended himself in the trial with a speech, which has survived and is commonly known as the <cite>Apologia</cite>. He successfully secured his acquittal.
 <br><br>
 <i>“I will now deal with the actual charge of magic. You spared no violence in fanning the flame of hatred against me. But you have disappointed all men's expectations by your old wives' fables, and the fire kindled by your accusations has burned itself away. I ask you, Maximus, have you ever seen fire spring up among the stubble, crackling sharply, blazing wide and spreading fast, but soon exhausting its flimsy fuel, dying fast away, leaving not a wrack behind? So they have kindled their accusation with abuse and fanned it with words, but it lacks the fuel of facts and, your verdict once given, is destined to leave not a wrack of calumny behind. The whole of Aemilianus' calumnious accusation was centred in the charge of magic. I should therefore like to ask his most learned advocates how, precisely, they would define a magician?”</i> (Apuleius, <cite>Apologia</cite> 25)
 <br><br>
@@ -124,26 +124,27 @@ Translated by Ingrid D. Rowland
 Gaudenzio theory that the scrolls were fakes was proved correct in 1700, (45 years after Curzio’s death) when a Tuscan artist, noticed that the paper which the texts were written on bore the watermark of the state paper factory in Colle di Val d’Elsa.
 
 <param ve-image 
-      label="Heinrich Ernst and Paganino Gaudenzio, <cite>Ad antiquitates Etruscas quas Volaterrae nuper dederunt observationes, in quibus disquisitionis astronomicae de etruscarum antiquitatum fragmentis auctor quoque notatur</cite>, 1639. Photo: Harpreet Dhillon"
+      label="Heinrich Ernst and Paganino Gaudenzio, 'Ad antiquitates Etruscas quas Volaterrae nuper dederunt observationes, in quibus disquisitionis astronomicae de etruscarum antiquitatum fragmentis auctor quoque notatur', 1639. Photo: Harpreet Dhillon"
       url="https://github.com/user-attachments/assets/c604e4de-9108-4708-9d34-00c8e6cfb028">
       
 ## 11. Map of Volterra from Curzio Inghirami’s <cite>Ethruscarum Antiquitatum Fragmenta</cite>, 1636 
 The Inghirami family home, Villa Scornello can be found towards the bottom left of the map (Labelled number one). The house stood on a hill south of the Etruscan city, Volterra.
-<br><br>
+
 <param ve-image 
-      label="Image: Archive.org "
+      label="Map of Volterra from Curzio Inghirami’s Ethruscarum Antiquitatum Fragmenta, 1636 (image courtesy of Archive.org)."
       url="https://github.com/user-attachments/assets/7324fee2-9a20-4ccd-9f67-36a85636899e">
       
 ## 12. History
 Chronicles represent one of the earliest forms of history books, and until the late 16th century the “chronicle seemed to the English writer to be the most appropriate, indeed the only available vehicle for a narrative representation of the past,” according to D.R. Woolf’s article <cite>Genre into Artifact</cite>. Detailed and told with a linear timeline, chronicles provided information of key events; although the creator’s biases, including religious viewpoints, influenced the interpretation of events. There was also a tendency to embellish, since these were not always first-hand accounts, leading to inaccuracies.
 <br><br>
 By the time of the seventeenth century the structure of the chronicle became unfashionable. The format was cumbersome and expensive to keep up to date. New genres arose, such as almanacs and calendars, which were better suited to keeping news of current events. The rigid structure of chronicles also gave way to the Renaissance humanism movement, which meant historiographies were less influenced by divinity and more affected by the human experience. Books placed more emphasis on politics and battles, with analysis and an expectation to learn from these past events.
+
 <param ve-image 
-      label="Image Raphael Holinshed’s Chronicles of England, Scotlande, and Irelande. 1577. Internet Archive ‎CC0"
+      label="Image Raphael Holinshed’s 'Chronicles of England, Scotlande, and Irelande'. 1577. Internet Archive ‎CC0"
       url="https://github.com/user-attachments/assets/7410f5f0-fa07-4b53-affd-a5a49dbf0a3f">
       
-## 13. <cite>The Annales of England : faithfully collected out of the most autenticall authors, records , and other monuments of antiquitie, from the first inhabitation untill this present yeere 1592</cite> / by John Stow
-This work is a revised edition of <cite>The Chronicles of England</cite> (1580), by English historian John Stow. Subsequent longer editions of the <cite>Annales</cite> followed (five in total), with the 1605 version being the last Stow worked on before his death. Chronicler Edmund Howes would continue the work of his predecessor.
+## 13. <cite>The Annales of England : faithfully collected out of the most autenticall authors, records , and other monuments of antiquitie, from the first inhabitation untill this present yeere 1592</cite> by John Stow
+This work is a revised edition of <cite>The Chronicles of England (1580)</cite>, by English historian John Stow. Subsequent longer editions of the Annales followed (five in total), with the 1605 version being the last Stow worked on before his death. Chronicler Edmund Howes would continue the work of his predecessor.
 <br><br>
 Despite the rising opinion chronicles were an antiquated style of recording history, <cite>The Annales</cite> still enjoyed a high level of readership at a time when literacy rates were improving. Stow also began publishing abridgments of the chronicles, with the shorter accounts of historical writings being cheaper to produce.
 <br><br>
@@ -155,15 +156,15 @@ Under the heading of Richard I, Stow carries on the legendary tale of Robin Hood
 <br><br>
 -Stow, <cite>The Annales of England</cite>, 227
 <param ve-image 
-      label="Image from the title page of <cite>The Annales of England : faithfully collected out of the most autenticall authors, records , and other monuments of antiquitie, from the first inhabitation untill this present yeere</cite> 1592 / by John Stow"
+      label="Image from the title page of 'The Annales of England : faithfully collected out of the most autenticall authors, records , and other monuments of antiquitie, from the first inhabitation untill this present yeere 1592' by John Stow"
       url="https://github.com/user-attachments/assets/0516a6ae-35b7-415e-b17c-71d4806824d3">
 
 ## 14. John Stow 1524/25 -1605
-John Stow was a historian and antiquarian. Along with The Chronicles of England, he also complied A Survey of London and A Summarie of Englyshe Chronicles. “Stow is an excellent example of the citizen historian, with no elitist pretensions,” according to Barrett Beer and Andrea Manchester in Writing and Rewriting Early Modern History.
+John Stow was a historian and antiquarian. Along with <cite>The Chronicles of England</cite>, he also complied <cite>A Survey of London</cite> and <cite>A Summarie of Englyshe Chronicles</cite>. “Stow is an excellent example of the citizen historian, with no elitist pretensions,” according to Barrett Beer and Andrea Manchester in <cite>Writing and Rewriting Early Modern History</cite>.
 <br><br>
-Originally interested in poetry, Stow turned to writing chronicles to improve the format. He was from a humbler social status than his historical writing contemporaries, who were elite, educated historians. His background influenced his observations; The Annales focus on events impacting the average citizen, such as plagues and severe weather, less on politics. 
+Originally interested in poetry, Stow turned to writing chronicles to improve the format. He was from a humbler social status than his historical writing contemporaries, who were elite, educated historians. His background influenced his observations; <cite>The Annales</cite> focus on events impacting the average citizen, such as plagues and severe weather, less on politics. 
 <br><br>
-Stow’s interest in rare books and collecting antiquities left him destitute at the end of his life. He says in the opening of The Annales of England (1592): 
+Stow’s interest in rare books and collecting antiquities left him destitute at the end of his life. He says in the opening of <cite>The Annales of England</cite>(1592): 
 <br><br>
 “It is now more than thirtie yeeres (right reverende father) since I first addressed all my cares and cogitations to the studies of histories and search for antiquities: the greatest part of which time I have diligently imploied in collecting such matters of this kingdome, as I thought most woorthie to be recommended both to the present and succeeding age.”
 <br><br>
