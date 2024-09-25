@@ -245,6 +245,10 @@ Robert Salter’s <cite>Wonderfull Prophecies from the Beginning of the Monarchy
 <br><br>
 The work also explores the significance of contemporary events, including the appearance of a comet and how they align with these prophecies.
 
+<param ve-image 
+      label="Photo: Harpreet Dhillon"
+      url="https://github.com/user-attachments/assets/26ff63f7-dc72-47d1-98d9-8608dc69d54f">
+      
 ## 22. Francesco Maria Guazzo, <cite>Compendium Maleficarum (Collection of the Evil Deeds of Witchcraft)</cite> (1626) From the collection of Robert Ashley (1565-1641)
 The <cite>Compendium Maleficarum</cite> was first published in Milan in 1608. This second edition, which expanded on the earlier work, was published by the Stamperia del Collegio Ambrosiano in 1626. The work, which is an encyclopaedic survey of witchcraft and demonology, was fully approved by the ecclesiastical authorities. 
 <br><br>
