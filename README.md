@@ -130,9 +130,9 @@ Gaudenzio theory that the scrolls were fakes was proved correct in 1700, (45 yea
 ## 11. Map of Volterra from Curzio Inghirami’s <cite>Ethruscarum Antiquitatum Fragmenta</cite>, 1636 
 The Inghirami family home, Villa Scornello can be found towards the bottom left of the map (Labelled number one). The house stood on a hill south of the Etruscan city, Volterra.
 
-<param ve-image 
+<param ve-iframe
       label="Map of Volterra from Curzio Inghirami’s Ethruscarum Antiquitatum Fragmenta, 1636 (image courtesy of Archive.org, public domain)."
-      url="https://github.com/user-attachments/assets/7324fee2-9a20-4ccd-9f67-36a85636899e">
+      src="https://archive.org/embed/bib_fict_3584558/page/n24">
 
 ## 11.
 The Inghirami family home, Villa Scornello can be found towards the bottom left of the map (Labelled number one). The house stood on a hill south of the Etruscan city, Volterra.
