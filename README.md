@@ -170,7 +170,7 @@ Stow’s interest in rare books and collecting antiquities left him destitute at
 <br><br>
 -Stow, <cite>The Annales of England</cite>
 <param ve-image 
-      label="Image John Stow by unknown artist. Courtesy of National Portrait Gallery, London"
+      label="Image John Stow by unknown artist. Courtesy of [National Portrait Gallery](https://www.npg.org.uk/collections/search/portrait/mw127566/John-Stow?LinkID=mp67404&search=sas&sText=john+stow&role=sit&rNo=0), London"
       url="https://github.com/user-attachments/assets/a51bb49e-2c4d-4bfc-a537-c607eba73d75">
 
 ## 15. <cite>Campaigns of King William and Queen Anne; from 1689, to 1712 : also, a new system of military discipline, for a battalion of foot and action; with the most essential exercise of the cavalry : adorn'd with a map of the seat of war, and a plan to the exercise 1745</cite> by Richard Kane
@@ -259,7 +259,7 @@ The practice of alchemy represents man’s early attempt to understand the natur
 <br><br>
 Many of the early fellows of the Royal Society were also interested in alchemy; they described themselves as natural philosophers- educated, professional men of gentry. Like alchemist before them, they conducted experiments and published their findings in the journal <cite>Philosophical Transactions of the Royal Society</cite>.
 <param ve-image 
-      label="Image An elderly alchemist sitting next to his equipment.” Engraving by C. Weigel, 1698. Courtesy of the Wellcome Collection Public Domain "
+      label="Image An elderly alchemist sitting next to his equipment.” Engraving by C. Weigel, 1698. Courtesy of the [Wellcome Collection] (https://wellcomecollection.org/works/a4hpxd23/images?id=h9gr7yf7) Public Domain "
       url="https://github.com/user-attachments/assets/0c1f0984-fe38-4b50-bdd0-a6475456af7d">
 
 ## 24. Johann Daniel Mylius (1583-1642), <cite>Philosophia Reformata</cite> (1622) From the collection of Robert Ashley (1565-1641)
@@ -287,7 +287,7 @@ Today the society includes approximately 1,800 members worldwide.
 Middle Templar John Evelyn was an early Fellow of the Royal Society, writing books on horticulture and air pollution. Admitted to the Inn in 1636, he kept a diary of his time at the Inn until his death in 1706.
 <br><br>
 <param ve-image 
-      label="Portrait of John Evelyn. T. Bragg after Kneller. Image courtesy of the Wellcome Collection (CC BY 4.0)"
+      label="Portrait of John Evelyn. T. Bragg after Kneller. Image courtesy of the [Wellcome Collection](https://wellcomecollection.org/works/ggfyrffb/images?id=t9hx8qya) (CC BY 4.0)"
       url="https://github.com/user-attachments/assets/5a26d6ca-553b-4f9b-abd7-49d729014cef">
 
 ## 27. The Philosophical Transactions of the Royal Society 1665-
@@ -308,7 +308,7 @@ Stephen Hales (1677-1761) was a clergyman and inventor. Elected as a fellow of t
 <cite>An Account of Some Trials to Cure the Ill Taste of Milk</cite> was one of Hales’ experiments included in The Philosophical Transactions. The image illustrates the apparatus Hales used during his trials to improve the sour taste of milk. Hales intended to conduct the study repeatedly following the bovine’s consumption of foods; although, he only could test after the cows were fed ‘crow-garlic cut grass (wild garlic)’ and cabbage. Like many during his day, it was thought “bad air” was the cause of disease. The experiment involved blowing air through warmed milk, which Hales concluded “the taste was a little mended.” 
 
 <param ve-image 
-      label="Image Stephen Hales by James Macardell, after Thomas Hudson 1759 © National Portrait Gallery."
+      label="Image Stephen Hales by James Macardell, after Thomas Hudson 1759 © [National Portrait Gallery](https://www.npg.org.uk/collections/search/portrait/mw36766/Stephen-Hales?)."
       url="https://github.com/user-attachments/assets/5cb86348-c44d-4f6b-9479-b54ef9eea260">
 
 <param ve-image 
@@ -335,7 +335,7 @@ The Book Sponsorship Programme was started in 2007 to help preserve these books 
 <br><br>
 Restoration work is carried out by specialist, off-site conservation studios. All the conservators we work with are registered on The Institute of Conservation's Conservation Register.
 <br><br>
-To find out more about the Rare Book Fund and how you can contribute please scan the QR code.
+To find out more about the Rare Book Fund and how you can contribute click [here](https://www.middletemple.org.uk/library/library-collections/rare-books/rare-book-sponsorship-programme).
 
 <param ve-video id="MG_icJCVyJU"
        label="Video of Liane working with Virgil book. Caption Conservator, Liane Owen, removing surface dirt">
