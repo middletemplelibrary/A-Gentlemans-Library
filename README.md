@@ -138,7 +138,7 @@ The Inghirami family home, Villa Scornello can be found towards the bottom left 
 The Inghirami family home, Villa Scornello can be found towards the bottom left of the map (Labelled number one). The house stood on a hill south of the Etruscan city, Volterra.
 
 <param ve-iframe 
-       src="https://archive.org/embed/bib_fict_3584558">
+       src="https://archive.org/embed/bib_fict_3584558/page/n23">
 
 ## 12. History
 Chronicles represent one of the earliest forms of history books, and until the late 16th century the “chronicle seemed to the English writer to be the most appropriate, indeed the only available vehicle for a narrative representation of the past,” according to D.R. Woolf’s article <cite>Genre into Artifact</cite>. Detailed and told with a linear timeline, chronicles provided information of key events; although the creator’s biases, including religious viewpoints, influenced the interpretation of events. There was also a tendency to embellish, since these were not always first-hand accounts, leading to inaccuracies.
