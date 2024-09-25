@@ -265,8 +265,10 @@ The <cite>Compendium Maleficarum</cite> provides the reader with lengthy descrip
 The practice of alchemy represents man’s early attempt to understand the natural world. Despite its connotation with mysticism, alchemy like modern science involved experimentation and observation; leading 16th and 17th century scientists such as Isaac Newton and Robert Boyle practiced. Alchemists were in search of a chemical substance- a philosopher’s stone- which could alter metals, such as lead and copper, turning them into gold or silver. The desire to understand and apply material change to waters, minerals and metals was to improve industries such as medicine, agriculture, and trade; although, if one found the philosopher’s stone alchemy could also prove profitable. Therefore, secrecy shrouded the practice of alchemy and texts from the time are filled with code names and figurative language.
 <br><br>
 Many of the early fellows of the Royal Society were also interested in alchemy; they described themselves as natural philosophers- educated, professional men of gentry. Like alchemist before them, they conducted experiments and published their findings in the journal <cite>Philosophical Transactions of the Royal Society</cite>.
+<br><br>
+Image courtesy of the [Wellcome Collection Public Domain](https://wellcomecollection.org/works/a4hpxd23/images?id=h9gr7yf7).
 <param ve-image 
-      label="Image An elderly alchemist sitting next to his equipment.” Engraving by C. Weigel, 1698. Courtesy of the [Wellcome Collection] (https://wellcomecollection.org/works/a4hpxd23/images?id=h9gr7yf7) Public Domain "
+      label="Image An elderly alchemist sitting next to his equipment.” Engraving by C. Weigel, 1698. Courtesy of the Wellcome Collection Public Domain "
       url="https://github.com/user-attachments/assets/0c1f0984-fe38-4b50-bdd0-a6475456af7d">
 
 ## 24. Johann Daniel Mylius (1583-1642), <cite>Philosophia Reformata</cite> (1622) From the collection of Robert Ashley (1565-1641)
@@ -293,8 +295,10 @@ Today the society includes approximately 1,800 members worldwide.
 ## 26. John Evelyn 1620-1706 
 Middle Templar John Evelyn was an early Fellow of the Royal Society, writing books on horticulture and air pollution. Admitted to the Inn in 1636, he kept a diary of his time at the Inn until his death in 1706.
 <br><br>
+Image courtesy of the [Wellcome Collection](https://wellcomecollection.org/works/ggfyrffb/images?id=t9hx8qya).
+
 <param ve-image 
-      label="Portrait of John Evelyn. T. Bragg after Kneller. Image courtesy of the [Wellcome Collection](https://wellcomecollection.org/works/ggfyrffb/images?id=t9hx8qya) (CC BY 4.0)"
+      label="Portrait of John Evelyn. T. Bragg after Kneller. Image courtesy of the Wellcome Collection (CC BY 4.0)"
       url="https://github.com/user-attachments/assets/5a26d6ca-553b-4f9b-abd7-49d729014cef">
 
 ## 27. The Philosophical Transactions of the Royal Society 1665-
@@ -313,9 +317,10 @@ Middle Temple Library’s collection includes publications from <cite>The Philos
 Stephen Hales (1677-1761) was a clergyman and inventor. Elected as a fellow of the Royal Society in 1718, he is credited with the invention of the ventilator. This is a contribution he made to the Society’s journal in 1755. 
 <br><br>
 <cite>An Account of Some Trials to Cure the Ill Taste of Milk</cite> was one of Hales’ experiments included in The Philosophical Transactions. The image illustrates the apparatus Hales used during his trials to improve the sour taste of milk. Hales intended to conduct the study repeatedly following the bovine’s consumption of foods; although, he only could test after the cows were fed ‘crow-garlic cut grass (wild garlic)’ and cabbage. Like many during his day, it was thought “bad air” was the cause of disease. The experiment involved blowing air through warmed milk, which Hales concluded “the taste was a little mended.” 
-
+<br><br>
+First image courtesy of the [National Portrait Gallery](https://www.npg.org.uk/collections/search/portrait/mw36766/Stephen-Hales?).
 <param ve-image 
-      label="Image Stephen Hales by James Macardell, after Thomas Hudson 1759 © [National Portrait Gallery](https://www.npg.org.uk/collections/search/portrait/mw36766/Stephen-Hales?)."
+      label="Image Stephen Hales by James Macardell, after Thomas Hudson 1759 © National Portrait Gallery."
       url="https://github.com/user-attachments/assets/5cb86348-c44d-4f6b-9479-b54ef9eea260">
 
 <param ve-image 
@@ -344,7 +349,7 @@ Restoration work is carried out by specialist, off-site conservation studios. Al
 <br><br>
 To find out more about the Rare Book Fund and how you can contribute click [here](https://www.middletemple.org.uk/library/library-collections/rare-books/rare-book-sponsorship-programme).
 
-<param ve-video id="MG_icJCVyJU"
+<param ve-video="MG_icJCVyJU"
        label="Video of Liane working with Virgil book. Caption Conservator, Liane Owen, removing surface dirt">
 
 ## 31. Works Needing Conservation
