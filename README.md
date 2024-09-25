@@ -134,12 +134,6 @@ The Inghirami family home, Villa Scornello can be found towards the bottom left 
       label="Map of Volterra from Curzio Inghirami’s Ethruscarum Antiquitatum Fragmenta, 1636 (image courtesy of Archive.org, public domain)."
       src="https://archive.org/embed/bib_fict_3584558/page/n24">
 
-## 11.
-The Inghirami family home, Villa Scornello can be found towards the bottom left of the map (Labelled number one). The house stood on a hill south of the Etruscan city, Volterra.
-
-<param ve-iframe 
-       src="https://archive.org/embed/bib_fict_3584558/page/n24">
-
 ## 12. History
 Chronicles represent one of the earliest forms of history books, and until the late 16th century the “chronicle seemed to the English writer to be the most appropriate, indeed the only available vehicle for a narrative representation of the past,” according to D.R. Woolf’s article <cite>Genre into Artifact</cite>. Detailed and told with a linear timeline, chronicles provided information of key events; although the creator’s biases, including religious viewpoints, influenced the interpretation of events. There was also a tendency to embellish, since these were not always first-hand accounts, leading to inaccuracies.
 <br><br>
@@ -181,6 +175,11 @@ Image courtesy of [National Portrait Gallery](https://www.npg.org.uk/collections
 <param ve-image 
       label="Image John Stow by unknown artist. Courtesy of National Portrait Gallery, London"
       url="https://github.com/user-attachments/assets/a5926154-1668-41de-9686-10671aaff824">
+
+## 14.
+test
+<param ve-iframe
+       src="https://www.npg.org.uk/collections/search/portrait/mw127566/John-Stow">
 
 ## 15. <cite>Campaigns of King William and Queen Anne; from 1689, to 1712 : also, a new system of military discipline, for a battalion of foot and action; with the most essential exercise of the cavalry : adorn'd with a map of the seat of war, and a plan to the exercise 1745</cite> by Richard Kane
 Published in 1745, the first portion of the book is author Richard Kane’s memoir, detailing the military campaigns under King William and Queen Anne’s reigns. Kane was a British army officer from Ireland, who fought under John Churchill, the 1st Duke of Marlborough. Writing about victory in Blenheim against the French and Bavarians, Kane says:
