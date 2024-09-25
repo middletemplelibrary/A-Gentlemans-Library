@@ -172,7 +172,7 @@ Stow’s interest in rare books and collecting antiquities left him destitute at
 
 <param ve-image 
       label="Image John Stow by unknown artist. Courtesy of [National Portrait Gallery](https://www.npg.org.uk/collections/search/portrait/mw127566/John-Stow?LinkID=mp67404&search=sas&sText=john+stow&role=sit&rNo=0), London"
-      url="=https://github.com/user-attachments/assets/a5926154-1668-41de-9686-10671aaff824">
+      url="https://github.com/user-attachments/assets/a5926154-1668-41de-9686-10671aaff824">
 
 ## 15. <cite>Campaigns of King William and Queen Anne; from 1689, to 1712 : also, a new system of military discipline, for a battalion of foot and action; with the most essential exercise of the cavalry : adorn'd with a map of the seat of war, and a plan to the exercise 1745</cite> by Richard Kane
 Published in 1745, the first portion of the book is author Richard Kane’s memoir, detailing the military campaigns under King William and Queen Anne’s reigns. Kane was a British army officer from Ireland, who fought under John Churchill, the 1st Duke of Marlborough. Writing about victory in Blenheim against the French and Bavarians, Kane says:
