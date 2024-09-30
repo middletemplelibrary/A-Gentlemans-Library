@@ -99,6 +99,11 @@ Apuleius was born in the mid-120s AD in Madauros, an ancient Roman city in Numid
 Translated by H. E. Butler
 <br><br>
 Following the trial Apuleius returned to Numidia and took up residence in Carthage. He gained fame far and wide as a writer, philosopher and lecturer.
+
+<param ve-iframe
+      label="'Apuleius, Apology And Florida', 1909, translated by H.E. Butler (courtesy of Archive.org, public domain)."
+      src="https://archive.org/embed/apuleius-apology-and-florida-butler-1909/page/n54">
+
       
 ## 9. Johannes Rosinus (1551-1626), <cite>Antiquitatum Romanarum Corpus Absolutissum</cite>, 1620 From the collection of Robert Ashley (1565-1641)
 The first edition of the <cite>Antiquitatum Romanarum Corpus Absolutissum</cite> was published in 1583. The work is an illustrated encyclopaedia of Roman antiquity by the German author, Johannes Rosinus. Rosinus studied at Jena, before becoming the sub-rector of a school at Regensburg. In later years he became the minister of a Lutheran church in Naumburg, Saxony. 
