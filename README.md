@@ -134,10 +134,9 @@ Gaudenzio theory that the scrolls were fakes was proved correct in 1700, (45 yea
 ## 11. Map of Volterra from Curzio Inghirami’s <cite>Ethruscarum Antiquitatum Fragmenta</cite>, 1636 
 The Inghirami family home, Villa Scornello can be found towards the bottom left of the map (Labelled number one). The house stood on a hill south of the Etruscan city, Volterra.
 
-<param ve-image
+<param ve-iframe
       label="Map of Volterra from Curzio Inghirami’s Ethruscarum Antiquitatum Fragmenta, 1636 (image courtesy of Archive.org, public domain)."
-      url="https://ia804601.us.archive.org/BookReader/BookReaderImages.php?zip=/15/items/bib_fict_3584558/bib_fict_3584558_jp2.zip&file=bib_fict_3584558_jp2/bib_fict_3584558_0025.jp2&id=bib_fict_3584558&scale=8&rotate=0"
-       <span data-click-image-zoomto="370,374,136,102">Foo Text</span>>
+      src="https://archive.org/embed/bib_fict_3584558/page/n24">
 
 ## 12. History
 Chronicles represent one of the earliest forms of history books, and until the late 16th century the “chronicle seemed to the English writer to be the most appropriate, indeed the only available vehicle for a narrative representation of the past,” according to D.R. Woolf’s article <cite>Genre into Artifact</cite>. Detailed and told with a linear timeline, chronicles provided information of key events; although the creator’s biases, including religious viewpoints, influenced the interpretation of events. There was also a tendency to embellish, since these were not always first-hand accounts, leading to inaccuracies.
