@@ -88,7 +88,7 @@ The fable’s themes of a young girl with two jealous sisters who is courted by 
 Translated by P. G. Walsh
 
 <param ve-image 
-      label="Image from 'Les Metamorphoses ou l'Asne dor'(1623). "
+      label="Image from 'Les Metamorphoses ou l'Asne dor' (1623). "
       url="https://github.com/user-attachments/assets/1683a389-ce98-4a7e-9720-5397f603f2ce">
       
 ## 8. Apuleius (mid-120 AD -?)
@@ -112,7 +112,7 @@ The first edition of the <cite>Antiquitatum Romanarum Corpus Absolutissum</cite>
 <br><br>
 Later editions such as this were expanded and amended by the Scottish Catholic scholar and historian, Thomas Dempster (1579-1625). The 1613 edition was dedicated to King James I which won Dempster an invitation to the English court.
 <param ve-image 
-      label="Image from Johannes Rosinus (1551-1626), <cite>Antiquitatum Romanarum Corpus Absolutissum</cite>, 1620."
+      label="Image from Johannes Rosinus (1551-1626), 'Antiquitatum Romanarum Corpus Absolutissum', 1620."
       url="https://github.com/user-attachments/assets/d4cb30e2-57fb-4f44-9556-6b815ba41425">
       
 ## 10 Heinrich Ernst and Paganino Gaudenzio, <cite>Ad antiquitates Etruscas quas Volaterrae nuper dederunt observationes, in quibus disquisitionis astronomicae de etruscarum antiquitatum fragmentis auctor quoque notatur</cite>, 1639 From the collection of Robert Ashley (1565-1641)
