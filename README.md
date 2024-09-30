@@ -102,7 +102,8 @@ Following the trial Apuleius returned to Numidia and took up residence in Cartha
 
 <param ve-iframe
       label="'Apuleius, Apology And Florida', 1909, translated by H.E. Butler (courtesy of Archive.org, public domain)."
-      src="https://archive.org/embed/apuleius-apology-and-florida-butler-1909/page/55">
+      src="https://archive.org/embed/apuleius-apology-and-florida-butler-1909/page/55"
+       license="CC0">
 
       
 ## 9. Johannes Rosinus (1551-1626), <cite>Antiquitatum Romanarum Corpus Absolutissum</cite>, 1620 From the collection of Robert Ashley (1565-1641)
