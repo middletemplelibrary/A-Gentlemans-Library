@@ -129,23 +129,13 @@ Gaudenzio theory that the scrolls were fakes was proved correct in 1700, (45 yea
 <param ve-image 
       label="Heinrich Ernst and Paganino Gaudenzio, 'Ad antiquitates Etruscas quas Volaterrae nuper dederunt observationes, in quibus disquisitionis astronomicae de etruscarum antiquitatum fragmentis auctor quoque notatur', 1639. Photo: Harpreet Dhillon"
       url="https://github.com/user-attachments/assets/c604e4de-9108-4708-9d34-00c8e6cfb028">
-<div class="container">
-  <p class="AdAntiquitates"><param ve-image 
-      label="Heinrich Ernst and Paganino Gaudenzio, 'Ad antiquitates Etruscas quas Volaterrae nuper dederunt observationes, in quibus disquisitionis astronomicae de etruscarum antiquitatum fragmentis auctor quoque notatur', 1639. Photo: Harpreet Dhillon"
-      url="https://github.com/user-attachments/assets/c604e4de-9108-4708-9d34-00c8e6cfb028"></p>
-</div>
-      .AdAntiquitates{
-    transform: rotate(90deg);
-    }
       
 ## 11. Map of Volterra from Curzio Inghirami’s <cite>Ethruscarum Antiquitatum Fragmenta</cite>, 1636 
 The Inghirami family home, Villa Scornello can be found towards the bottom left of the map (Labelled number one). The house stood on a hill south of the Etruscan city, Volterra.
 
 <param ve-iframe
       label="Map of Volterra from Curzio Inghirami’s Ethruscarum Antiquitatum Fragmenta, 1636 (image courtesy of Archive.org, public domain)."
-      src="https://archive.org/embed/bib_fict_3584558/page/n24"
- height: 4032px;
-width: 3024px;> 
+      src="https://archive.org/embed/bib_fict_3584558/page/n24">
 
 ## 12. History
 Chronicles represent one of the earliest forms of history books, and until the late 16th century the “chronicle seemed to the English writer to be the most appropriate, indeed the only available vehicle for a narrative representation of the past,” according to D.R. Woolf’s article <cite>Genre into Artifact</cite>. Detailed and told with a linear timeline, chronicles provided information of key events; although the creator’s biases, including religious viewpoints, influenced the interpretation of events. There was also a tendency to embellish, since these were not always first-hand accounts, leading to inaccuracies.
@@ -214,8 +204,8 @@ From the second half of the fifteen century major voyages to Africa, America and
 <br><br>
 The artwork on display (page 941) is of a “haut”. It has been identified with a species of three-toed sloths such as Bradypus variegatus which are found in the forests of Central and South America (See the image below). This woodcut is from chapter thirteen of book twenty-one.
 <param ve-image 
-      label="Photo of three-toed sloth, photograph by Natural History on the Net."
-      url="https://github.com/user-attachments/assets/3b8b712b-bd8c-4d9a-942d-206cab029250">
+      label="'Haut' from Andre Thevet (1502-1590), 'La Cosmographie Universelle' (1575)."
+      url="https://github.com/user-attachments/assets/6c3e20df-adec-4f66-b53b-f1fb61e48ea9">
 
 <param ve-image 
       label="Photo of three-toed sloth, photograph by Natural History on the Net."
