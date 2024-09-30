@@ -203,11 +203,11 @@ From the second half of the fifteen century major voyages to Africa, America and
 <cite>La Cosmographie Universelle</cite>’s two volumes contain over one thousand pages divided into twenty-three books. The work is divided into four sections which correspond to the four continents. As well as maps and depictions of the indigenous people and architectural wonders, the illustrations also include depictions of exotic animals and plants.
 <br><br>
 The artwork on display (page 941) is of a “haut”. It has been identified with a species of three-toed sloths such as Bradypus variegatus which are found in the forests of Central and South America (See the image below). This woodcut is from chapter thirteen of book twenty-one.
-<param ve-image 
+<param ve-compare
       label="'Haut' from Andre Thevet (1502-1590), 'La Cosmographie Universelle' (1575)."
       url="https://github.com/user-attachments/assets/6c3e20df-adec-4f66-b53b-f1fb61e48ea9">
 
-<param ve-image 
+<param ve-compare
       label="Photo of three-toed sloth, photograph by Natural History on the Net."
       url="https://github.com/user-attachments/assets/141cfc5d-8173-4351-8082-d51d0af22606">
 
@@ -385,4 +385,4 @@ These texts are just some of the examples of items requiring restoration work.
       url="https://github.com/user-attachments/assets/0615dbf4-56e6-44f1-8519-95d763aac941">
 
 ##
-This exhibition runs in Middle Temple Library from September 2024. For more information about the Library and what we do, please click [here](https://www.middletemple.org.uk/library) to visit our website.
+This exhibition runs in Middle Temple Library from September 2024. For more information about the Library and what we do, [please click here to visit our website](https://www.middletemple.org.uk/library).
