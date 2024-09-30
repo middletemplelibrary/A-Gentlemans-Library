@@ -129,6 +129,14 @@ Gaudenzio theory that the scrolls were fakes was proved correct in 1700, (45 yea
 <param ve-image 
       label="Heinrich Ernst and Paganino Gaudenzio, 'Ad antiquitates Etruscas quas Volaterrae nuper dederunt observationes, in quibus disquisitionis astronomicae de etruscarum antiquitatum fragmentis auctor quoque notatur', 1639. Photo: Harpreet Dhillon"
       url="https://github.com/user-attachments/assets/c604e4de-9108-4708-9d34-00c8e6cfb028">
+<div class="container">
+  <p class="AdAntiquitates"><param ve-image 
+      label="Heinrich Ernst and Paganino Gaudenzio, 'Ad antiquitates Etruscas quas Volaterrae nuper dederunt observationes, in quibus disquisitionis astronomicae de etruscarum antiquitatum fragmentis auctor quoque notatur', 1639. Photo: Harpreet Dhillon"
+      url="https://github.com/user-attachments/assets/c604e4de-9108-4708-9d34-00c8e6cfb028"></p>
+</div>
+      .AdAntiquitates{
+    transform: rotate(90deg);
+    }
       
 ## 11. Map of Volterra from Curzio Inghirami’s <cite>Ethruscarum Antiquitatum Fragmenta</cite>, 1636 
 The Inghirami family home, Villa Scornello can be found towards the bottom left of the map (Labelled number one). The house stood on a hill south of the Etruscan city, Volterra.
