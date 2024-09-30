@@ -103,6 +103,7 @@ Following the trial Apuleius returned to Numidia and took up residence in Cartha
 <param ve-iframe
       label="'Apuleius, Apology And Florida', 1909, translated by H.E. Butler (courtesy of Archive.org, public domain)."
       src="https://archive.org/embed/apuleius-apology-and-florida-butler-1909/page/55"
+       attribution="Internet Archive"
        license="CC0">
 
       
@@ -138,6 +139,7 @@ The Inghirami family home, Villa Scornello can be found towards the bottom left 
 <param ve-iframe
       label="Map of Volterra from Curzio Inghirami’s Ethruscarum Antiquitatum Fragmenta, 1636 (image courtesy of Archive.org, public domain)."
       src="https://archive.org/embed/bib_fict_3584558/page/n24"
+       attribution="Internet Archive"
        license="CC0">
 
 ## 12. History
@@ -148,6 +150,7 @@ By the time of the seventeenth century the structure of the chronicle became unf
 <param ve-image 
       label="Image Raphael Holinshed’s 'Chronicles of England, Scotlande, and Irelande'. 1577. Internet Archive ‎CC0"
       url="https://github.com/user-attachments/assets/7410f5f0-fa07-4b53-affd-a5a49dbf0a3f"
+       attribution="Internet Archive"
        license="CC0">
       
 ## 13. <cite>The Annales of England : faithfully collected out of the most autenticall authors, records , and other monuments of antiquitie, from the first inhabitation untill this present yeere 1592</cite> by John Stow
@@ -164,9 +167,7 @@ Under the heading of Richard I, Stow carries on the legendary tale of Robin Hood
 -Stow, <cite>The Annales of England</cite>, 227
 <param ve-image 
       label="Image from the title page of 'The Annales of England : faithfully collected out of the most autenticall authors, records , and other monuments of antiquitie, from the first inhabitation untill this present yeere 1592' by John Stow"
-      url="https://github.com/user-attachments/assets/0516a6ae-35b7-415e-b17c-71d4806824d3"
-       attribution="Internet Archive"
-       license="CC0">
+      url="https://github.com/user-attachments/assets/0516a6ae-35b7-415e-b17c-71d4806824d3">
 
 ## 14. John Stow 1524/25 -1605
 John Stow was a historian and antiquarian. Along with <cite>The Chronicles of England</cite>, he also complied <cite>A Survey of London</cite> and <cite>A Summarie of Englyshe Chronicles</cite>. “Stow is an excellent example of the citizen historian, with no elitist pretensions,” according to Barrett Beer and Andrea Manchester in <cite>Writing and Rewriting Early Modern History</cite>.
@@ -183,7 +184,9 @@ Image courtesy of [National Portrait Gallery](https://www.npg.org.uk/collections
 
 <param ve-image 
       label="Image John Stow by unknown artist. Courtesy of National Portrait Gallery, London"
-      url="https://github.com/user-attachments/assets/a5926154-1668-41de-9686-10671aaff824">
+      url="https://github.com/user-attachments/assets/a5926154-1668-41de-9686-10671aaff824"
+       attribution="National Portrait Gallery"
+       license= "CC BY-NC-ND 3.0">
 
 ## 15. <cite>Campaigns of King William and Queen Anne; from 1689, to 1712 : also, a new system of military discipline, for a battalion of foot and action; with the most essential exercise of the cavalry : adorn'd with a map of the seat of war, and a plan to the exercise 1745</cite> by Richard Kane
 Published in 1745, the first portion of the book is author Richard Kane’s memoir, detailing the military campaigns under King William and Queen Anne’s reigns. Kane was a British army officer from Ireland, who fought under John Churchill, the 1st Duke of Marlborough. Writing about victory in Blenheim against the French and Bavarians, Kane says:
