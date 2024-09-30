@@ -137,7 +137,8 @@ The Inghirami family home, Villa Scornello can be found towards the bottom left 
 
 <param ve-iframe
       label="Map of Volterra from Curzio Inghirami’s Ethruscarum Antiquitatum Fragmenta, 1636 (image courtesy of Archive.org, public domain)."
-      src="https://archive.org/embed/bib_fict_3584558/page/n24">
+      src="https://archive.org/embed/bib_fict_3584558/page/n24"
+       license="CC0">
 
 ## 12. History
 Chronicles represent one of the earliest forms of history books, and until the late 16th century the “chronicle seemed to the English writer to be the most appropriate, indeed the only available vehicle for a narrative representation of the past,” according to D.R. Woolf’s article <cite>Genre into Artifact</cite>. Detailed and told with a linear timeline, chronicles provided information of key events; although the creator’s biases, including religious viewpoints, influenced the interpretation of events. There was also a tendency to embellish, since these were not always first-hand accounts, leading to inaccuracies.
@@ -146,7 +147,8 @@ By the time of the seventeenth century the structure of the chronicle became unf
 
 <param ve-image 
       label="Image Raphael Holinshed’s 'Chronicles of England, Scotlande, and Irelande'. 1577. Internet Archive ‎CC0"
-      url="https://github.com/user-attachments/assets/7410f5f0-fa07-4b53-affd-a5a49dbf0a3f">
+      url="https://github.com/user-attachments/assets/7410f5f0-fa07-4b53-affd-a5a49dbf0a3f"
+       license="CC0">
       
 ## 13. <cite>The Annales of England : faithfully collected out of the most autenticall authors, records , and other monuments of antiquitie, from the first inhabitation untill this present yeere 1592</cite> by John Stow
 This work is a revised edition of <cite>The Chronicles of England (1580)</cite>, by English historian John Stow. Subsequent longer editions of the Annales followed (five in total), with the 1605 version being the last Stow worked on before his death. Chronicler Edmund Howes would continue the work of his predecessor.
@@ -162,7 +164,9 @@ Under the heading of Richard I, Stow carries on the legendary tale of Robin Hood
 -Stow, <cite>The Annales of England</cite>, 227
 <param ve-image 
       label="Image from the title page of 'The Annales of England : faithfully collected out of the most autenticall authors, records , and other monuments of antiquitie, from the first inhabitation untill this present yeere 1592' by John Stow"
-      url="https://github.com/user-attachments/assets/0516a6ae-35b7-415e-b17c-71d4806824d3">
+      url="https://github.com/user-attachments/assets/0516a6ae-35b7-415e-b17c-71d4806824d3"
+       attribution="Internet Archive"
+       license="CC0">
 
 ## 14. John Stow 1524/25 -1605
 John Stow was a historian and antiquarian. Along with <cite>The Chronicles of England</cite>, he also complied <cite>A Survey of London</cite> and <cite>A Summarie of Englyshe Chronicles</cite>. “Stow is an excellent example of the citizen historian, with no elitist pretensions,” according to Barrett Beer and Andrea Manchester in <cite>Writing and Rewriting Early Modern History</cite>.
