@@ -128,14 +128,16 @@ Gaudenzio theory that the scrolls were fakes was proved correct in 1700, (45 yea
 
 <param ve-image 
       label="Heinrich Ernst and Paganino Gaudenzio, 'Ad antiquitates Etruscas quas Volaterrae nuper dederunt observationes, in quibus disquisitionis astronomicae de etruscarum antiquitatum fragmentis auctor quoque notatur', 1639. Photo: Harpreet Dhillon"
-      url="https://github.com/user-attachments/assets/c604e4de-9108-4708-9d34-00c8e6cfb028">
+      url="https://github.com/user-attachments/assets/c604e4de-9108-4708-9d34-00c8e6cfb028"
+       rotate="90">
       
 ## 11. Map of Volterra from Curzio Inghirami’s <cite>Ethruscarum Antiquitatum Fragmenta</cite>, 1636 
 The Inghirami family home, Villa Scornello can be found towards the bottom left of the map (Labelled number one). The house stood on a hill south of the Etruscan city, Volterra.
 
 <param ve-iframe
       label="Map of Volterra from Curzio Inghirami’s Ethruscarum Antiquitatum Fragmenta, 1636 (image courtesy of Archive.org, public domain)."
-      src="https://archive.org/embed/bib_fict_3584558/page/n24">
+      src="https://archive.org/embed/bib_fict_3584558/page/n24"
+       <span data-click-image-zoomto="370,374,136,102">Foo Text</span>>
 
 ## 12. History
 Chronicles represent one of the earliest forms of history books, and until the late 16th century the “chronicle seemed to the English writer to be the most appropriate, indeed the only available vehicle for a narrative representation of the past,” according to D.R. Woolf’s article <cite>Genre into Artifact</cite>. Detailed and told with a linear timeline, chronicles provided information of key events; although the creator’s biases, including religious viewpoints, influenced the interpretation of events. There was also a tendency to embellish, since these were not always first-hand accounts, leading to inaccuracies.
@@ -252,7 +254,8 @@ The work also explores the significance of contemporary events, including the ap
 
 <param ve-image 
       label="Photo: Harpreet Dhillon"
-      url="https://github.com/user-attachments/assets/26ff63f7-dc72-47d1-98d9-8608dc69d54f">
+      url="https://github.com/user-attachments/assets/26ff63f7-dc72-47d1-98d9-8608dc69d54f"
+       rotate="90">
       
 ## 22. Francesco Maria Guazzo, <cite>Compendium Maleficarum (Collection of the Evil Deeds of Witchcraft)</cite> (1626) From the collection of Robert Ashley (1565-1641)
 The <cite>Compendium Maleficarum</cite> was first published in Milan in 1608. This second edition, which expanded on the earlier work, was published by the Stamperia del Collegio Ambrosiano in 1626. The work, which is an encyclopaedic survey of witchcraft and demonology, was fully approved by the ecclesiastical authorities. 
@@ -295,7 +298,8 @@ Today the society includes approximately 1,800 members worldwide.
 
 <param ve-image 
       label="A meeting of the Royal Society in Crane Court.” This image is from George Walter Thornbury’s book “Old and New London, etc.” published in 1887 the picture shows a meeting of the Royal Society with Sir Issac Newton in the President’s Chair. Image courtesy of British Library CC0."
-      url="https://github.com/user-attachments/assets/6a841963-e13c-4fff-959e-95bad778778e">
+      url="https://github.com/user-attachments/assets/6a841963-e13c-4fff-959e-95bad778778e"
+       rotate="90">
 
 ## 26. John Evelyn 1620-1706 
 Middle Templar John Evelyn was an early Fellow of the Royal Society, writing books on horticulture and air pollution. Admitted to the Inn in 1636, he kept a diary of his time at the Inn until his death in 1706.
@@ -330,7 +334,8 @@ First image courtesy of the [National Portrait Gallery](https://www.npg.org.uk/c
 
 <param ve-image 
       label="Image from 'An Account of Some Trials to Cure the Ill Taste of Milk, Which is Occasioned by the Food of Cows, Either from Turnips, Cabbages, or Autumnal Leaves, &c. Also to Sweeten Stinking Water, &c'. by Stephen Hales, D.D.F.R.S. for 'The Philosophical Transactions'"
-      url="https://github.com/user-attachments/assets/ec6d3764-b49d-4dc3-aa81-a730e0933515">
+      url="https://github.com/user-attachments/assets/ec6d3764-b49d-4dc3-aa81-a730e0933515"
+       rotate="90">
 
 ## 29. <cite>Philosophical transactions, giving some account of the present undertakings, studies, and labours of the ingenious, in many considerable parts of the world</cite>. Vol XLVIII, Part I. 1753
 <i>A letter from Mr. John Ellis to Mr. Peter Collinson, F. R. S concerning cluster-polype, found in the sea near the coast of Greenland.</i>
@@ -376,15 +381,18 @@ These texts are just some of the examples of items requiring restoration work.
 
 <param ve-image 
       label="2. Heer"
-      url="https://github.com/user-attachments/assets/fd7cae37-da59-405a-a7f4-8fcac3c43792">
+      url="https://github.com/user-attachments/assets/fd7cae37-da59-405a-a7f4-8fcac3c43792"
+       rotate="90">
 
 <param ve-image 
       label="3. Cervantes"
-      url="https://github.com/user-attachments/assets/35f4c1f8-bebd-4d16-a96c-bddadf866306">
+      url="https://github.com/user-attachments/assets/35f4c1f8-bebd-4d16-a96c-bddadf866306"
+       rotate="90">
 
 <param ve-image 
       label="4. Donie"
-      url="https://github.com/user-attachments/assets/0615dbf4-56e6-44f1-8519-95d763aac941">
+      url="https://github.com/user-attachments/assets/0615dbf4-56e6-44f1-8519-95d763aac941"
+       rotate="90">
 
 ##
 This exhibition runs in Middle Temple Library from September 2024. For more information about the Library and what we do, [please click here to visit our website](https://www.middletemple.org.uk/library).
