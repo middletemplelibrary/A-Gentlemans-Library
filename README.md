@@ -376,10 +376,10 @@ Restoration work is carried out by specialist, off-site conservation studios. Al
 <br><br>
 To find out more about the Rare Book Fund and how you can contribute click [here](https://www.middletemple.org.uk/library/library-collections/rare-books/rare-book-sponsorship-programme).
 <br><br>
-Video of Liane working with Virgil book. Caption Conservator, Liane Owen, removing surface dirt.
+Video shows conservator, Liane Owen, removing surface dirt.”
 
 <param ve-video id="MG_icJCVyJU"
-       label="Video of Liane working with Virgil book. Caption Conservator, Liane Owen, removing surface dirt">
+       label="Video shows conservator, Liane Owen, removing surface dirt.">
 
 ## 31. Works Needing Conservation
 These texts are just some of the examples of items requiring restoration work.
@@ -412,4 +412,4 @@ These texts are just some of the examples of items requiring restoration work.
        rotate="90">
 
 ##
-This exhibition runs in Middle Temple Library from September 2024. For more information about the Library and what we do, [please click here to visit our website](https://www.middletemple.org.uk/library).
+This exhibition runs in Middle Temple Library from 3rd October 2024. For more information about the Library and what we do, [please click here to visit our website](https://www.middletemple.org.uk/library).
