@@ -242,7 +242,7 @@ The Reformation made an enormous impact on the lives of those who lived during t
 <param ve-image 
       label="Photo: Harpreet Dhillon"
       url="https://github.com/user-attachments/assets/26ff63f7-dc72-47d1-98d9-8608dc69d54f"
-       layout ="vertical">
+      rotate="90">
 
 
 ## 21. Robert Salter, <cite>Wonderfull prophecies from the beginning of the monarchy of this land</cite> (1627)
