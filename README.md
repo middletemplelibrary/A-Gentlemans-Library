@@ -1,5 +1,3 @@
-# A Gentleman's Library
-
 <param ve-config 
        title="A Gentleman's Library"
        author="Middle Temple Library"
