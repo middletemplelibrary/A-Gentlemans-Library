@@ -1,7 +1,7 @@
 <param ve-config 
        title="A Gentleman's Library"
        author="Middle Temple Library"
-       banner=""
+       banner="https://github.com/user-attachments/assets/cd3dedd0-e841-4d68-b23b-18810b8fdb83"
        layout="vertical">
 
 ## 
