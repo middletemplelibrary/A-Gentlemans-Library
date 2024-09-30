@@ -185,7 +185,7 @@ Image courtesy of [National Portrait Gallery](https://www.npg.org.uk/collections
 <param ve-image 
       label="Image John Stow by unknown artist. Courtesy of National Portrait Gallery, London"
       url="https://github.com/user-attachments/assets/a5926154-1668-41de-9686-10671aaff824"
-       attribution="National Portrait Gallery https://www.npg.org.uk/collections/search/portrait/mw127566/John-Stow"
+       attribution="National Portrait Gallery"
        license= "CC BY-NC-ND 3.0">
 
 ## 15. <cite>Campaigns of King William and Queen Anne; from 1689, to 1712 : also, a new system of military discipline, for a battalion of foot and action; with the most essential exercise of the cavalry : adorn'd with a map of the seat of war, and a plan to the exercise 1745</cite> by Richard Kane
@@ -242,8 +242,10 @@ Thevet travelled the Orient for five or six years from c. 1537. He claimed to ha
 Thevet died in Paris in c. 1592.
 
 <param ve-image 
-      label="Portrait of André Thévet, from 'Les Vrais pourtraits et vies des hommes illustres' (Paris, 1584). © The Trustees of the British Museum"
-      url="https://github.com/user-attachments/assets/2ee6b053-dd2d-4a47-b04f-6ac314f0900d">
+      label="Portrait of André Thévet, from 'Les Vrais pourtraits et vies des hommes illustres' (Paris, 1584)."
+      url="https://github.com/user-attachments/assets/2ee6b053-dd2d-4a47-b04f-6ac314f0900d"
+       attribution="© The Trustees of the British Museum"
+       license="CC BY-NC-SA 4.0">
 
 ## 20. Religious Literature in the Early Modern Period
 The Reformation made an enormous impact on the lives of those who lived during the early modern period (c. 1500-1800). Religious developments during the period also significantly shaped European literature. Important contributions came from writers such as Erasmus, More, and Milton, who addressed theological and philosophical issues within their works. Private collections such as Robert Ashley’s played an important role in the preservation of religious texts, some which would otherwise have been lost. 
@@ -283,8 +285,10 @@ Many of the early fellows of the Royal Society were also interested in alchemy; 
 <br><br>
 Image courtesy of the [Wellcome Collection Public Domain](https://wellcomecollection.org/works/a4hpxd23/images?id=h9gr7yf7).
 <param ve-image 
-      label="Image An elderly alchemist sitting next to his equipment.” Engraving by C. Weigel, 1698. Courtesy of the Wellcome Collection Public Domain "
-      url="https://github.com/user-attachments/assets/0c1f0984-fe38-4b50-bdd0-a6475456af7d">
+      label="Image An elderly alchemist sitting next to his equipment.” Engraving by C. Weigel, 1698."
+      url="https://github.com/user-attachments/assets/0c1f0984-fe38-4b50-bdd0-a6475456af7d"
+       attribution="Wellcome Collection Public Domain"
+       license="CC0">
 
 ## 24. Johann Daniel Mylius (1583-1642), <cite>Philosophia Reformata</cite> (1622) From the collection of Robert Ashley (1565-1641)
 This edition of Johann Daniel Mylius’ <cite>Philosophia Reformata</cite> was published in Frankfurt in 1622. Mylius who was born in Wetter, Germany was a composer and writer of alchemy. He was the brother-in-law and student of Johann Hartmann, Professor of Chymiatria at the University of Marburg.
@@ -304,9 +308,11 @@ By 1662, the fellowship received Royal Charter from Charles II and the group bec
 Today the society includes approximately 1,800 members worldwide.
 
 <param ve-image 
-      label="A meeting of the Royal Society in Crane Court.” This image is from George Walter Thornbury’s book “Old and New London, etc.” published in 1887 the picture shows a meeting of the Royal Society with Sir Issac Newton in the President’s Chair. Image courtesy of British Library CC0."
+      label="A meeting of the Royal Society in Crane Court.” This image is from George Walter Thornbury’s book “Old and New London, etc.” published in 1887 the picture shows a meeting of the Royal Society with Sir Issac Newton in the President’s Chair."
       url="https://github.com/user-attachments/assets/6a841963-e13c-4fff-959e-95bad778778e"
-       rotate="90">
+      rotate="90"
+       attribution="British Library"
+       license="CC0"> 
 
 ## 26. John Evelyn 1620-1706 
 Middle Templar John Evelyn was an early Fellow of the Royal Society, writing books on horticulture and air pollution. Admitted to the Inn in 1636, he kept a diary of his time at the Inn until his death in 1706.
@@ -315,7 +321,9 @@ Image courtesy of the [Wellcome Collection](https://wellcomecollection.org/works
 
 <param ve-image 
       label="Portrait of John Evelyn. T. Bragg after Kneller. Image courtesy of the Wellcome Collection (CC BY 4.0)"
-      url="https://github.com/user-attachments/assets/5a26d6ca-553b-4f9b-abd7-49d729014cef">
+      url="https://github.com/user-attachments/assets/5a26d6ca-553b-4f9b-abd7-49d729014cef"
+       attribution="Wellcome Collection"
+       license="CC BY 4.0">
 
 ## 27. The Philosophical Transactions of the Royal Society 1665-
 Published by Henry Oldenburg, the secretary of the Royal Society, <cite>The Philosophical Transactions</cite> are considered one of the world’s first peer-reviewed periodicals. Still in publication today, it also has the distinction of being the longest running English periodical. 
@@ -337,7 +345,9 @@ Stephen Hales (1677-1761) was a clergyman and inventor. Elected as a fellow of t
 First image courtesy of the [National Portrait Gallery](https://www.npg.org.uk/collections/search/portrait/mw36766/Stephen-Hales?).
 <param ve-image 
       label="Image Stephen Hales by James Macardell, after Thomas Hudson 1759 © National Portrait Gallery."
-      url="https://github.com/user-attachments/assets/5cb86348-c44d-4f6b-9479-b54ef9eea260">
+      url="https://github.com/user-attachments/assets/5cb86348-c44d-4f6b-9479-b54ef9eea260"
+       attribution="© National Portrait Gallery"
+       license="CC BY-NC-ND 3.0">
 
 <param ve-image 
       label="Image from 'An Account of Some Trials to Cure the Ill Taste of Milk, Which is Occasioned by the Food of Cows, Either from Turnips, Cabbages, or Autumnal Leaves, &c. Also to Sweeten Stinking Water, &c'. by Stephen Hales, D.D.F.R.S. for 'The Philosophical Transactions'"
