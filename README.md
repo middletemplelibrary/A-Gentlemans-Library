@@ -15,7 +15,8 @@ It was common for a learned gentleman to amass a private library consisting of t
 
 <param ve-image 
       label="Image from 'The works of Virgil: containing his Pastorals, Georgics, and Æneis', translated into English verse by Mr Dryden"
-      url="https://github.com/user-attachments/assets/40195165-ff9f-4f34-a920-a89829f9e895">
+      url="https://github.com/user-attachments/assets/40195165-ff9f-4f34-a920-a89829f9e895"
+       attribution="Photo taken by Marie Nash">
 
 ## 2. Middle Temple Library: Beginnings
 While the Inn had a small collection prior to 1540, it was the bequest of Robert Ashley’s collection of circa 5000 books in 1642 which led to the library’s re-founding and expansion. Ashley was admitted to Middle Temple in 1588 and called to the bar in 1595. His collection highlights his interest in a variety of different subject areas including travel, science, medicine, and classical literature. A number of items from his collection are featured in this exhibition, many which feature his handwritten notes.  
@@ -29,13 +30,16 @@ If you would like to read more about Robert Ashley’s life, Middle Temple Libra
       url="https://github.com/user-attachments/assets/6a2f1af5-3e4e-4771-916a-51e327dc2932">
 <param ve-image 
       label="Portrait of Robert Ashley, circa 1656."
-       url="https://github.com/user-attachments/assets/6df7963f-457a-4af4-9849-6a5772c7794c">
+       attribution="Middle Temple"
+       license="CC BY 2.0"
+       url="https://www.middletemple.org.uk/sites/default/files/Uploads/archive/CC%20Robert%20Ashley.jpg">
 
 ## 3. Middle Temple Library: Early Catalogues
 Middle Temple Library’s first catalogue was produced in 1655. While this original catalogue no longer exists, a later catalogue compiled in c.1683 can be found in the Inn’s Archive. In 1700 the first printed catalogue was compiled by Sir Bartholomew Shower, who was the Inn’s Treasurer at the time. The 1734 catalogue shown below was the first to arrange the collection by author and title
 <br><br>
 <param ve-image 
       label="Middle Temple Library Catalogue, 1734."
+       attribution="Photo taken by Marie Nash"
       url="https://github.com/user-attachments/assets/296780ed-28bd-40a9-9393-52598c787b09">
 
 ## 4. The Ancient World
@@ -45,6 +49,7 @@ From the late sixteenth until the nineteenth century, young wealthy European eli
 
 <param ve-image 
       label="Image from 'The Works of Virgil: Containing his Pastorals, Georgics, and Aeneis' (1697), translated by John Dryden"
+       attribution="Photo taken by Marie Nash"
       url="https://github.com/user-attachments/assets/de3636ba-2439-4dd1-9b4b-b9dfa60d776c">
 
 ## 5. Virgil, <cite>The works of Virgil: Containing his Pastorals, Georgics, and Aeneis (1697)</cite>, translated by John Dryden
@@ -76,6 +81,7 @@ The novel inspired a number of works by sixteenth and seventeenth century writer
 
 <param ve-image 
       label="Image from 'Les Métamorphoses ou L'Âne d'or' (1623). "
+       attribution="Photo taken by Marie Nash"
       url="https://github.com/user-attachments/assets/91ddf652-aa22-420f-9b04-f75f648bb19b">
       
 ## 7. A Fable Within a Fable: <cite>Cupid and Psyche</cite> in Apuleius’ <cite>The Golden Ass</cite>
@@ -89,6 +95,7 @@ Translated by P. G. Walsh
 
 <param ve-image 
       label="Image from 'Les Métamorphoses ou L'Âne d'or' (1623). "
+       attribution="Photo taken by Marie Nash"
       url="https://github.com/user-attachments/assets/1683a389-ce98-4a7e-9720-5397f603f2ce">
       
 ## 8. Apuleius (mid-120 AD -?)
@@ -113,6 +120,7 @@ The first edition of the <cite>Antiquitatum Romanarum Corpus Absolutissum</cite>
 Later editions such as this were expanded and amended by the Scottish Catholic scholar and historian, Thomas Dempster (1579-1625). The 1613 edition was dedicated to King James I which won Dempster an invitation to the English court.
 <param ve-image 
       label="Image from Johannes Rosinus (1551-1626), 'Antiquitatum Romanarum Corpus Absolutissum', 1620."
+       attribution="Photo taken by Marie Nash"
       url="https://github.com/user-attachments/assets/d4cb30e2-57fb-4f44-9556-6b815ba41425">
       
 ## 10 Heinrich Ernst and Paganino Gaudenzio, <cite>Ad antiquitates Etruscas quas Volaterrae nuper dederunt observationes, in quibus disquisitionis astronomicae de etruscarum antiquitatum fragmentis auctor quoque notatur</cite>, 1639 From the collection of Robert Ashley (1565-1641)
@@ -129,7 +137,8 @@ Translated by Ingrid D. Rowland
 Gaudenzio theory that the scrolls were fakes was proved correct in 1700, (45 years after Curzio’s death) when a Tuscan artist, noticed that the paper which the texts were written on bore the watermark of the state paper factory in Colle di Val d’Elsa.
 
 <param ve-image 
-      label="Heinrich Ernst and Paganino Gaudenzio, 'Ad antiquitates Etruscas quas Volaterrae nuper dederunt observationes, in quibus disquisitionis astronomicae de etruscarum antiquitatum fragmentis auctor quoque notatur', 1639. Photo: Harpreet Dhillon"
+      label="Heinrich Ernst and Paganino Gaudenzio, 'Ad antiquitates Etruscas quas Volaterrae nuper dederunt observationes, in quibus disquisitionis astronomicae de etruscarum antiquitatum fragmentis auctor quoque notatur', 1639."
+       attribution="Photo taken by Harpreet Dhillon"
       url="https://github.com/user-attachments/assets/c604e4de-9108-4708-9d34-00c8e6cfb028"
        rotate="90">
       
@@ -167,6 +176,7 @@ Under the heading of Richard I, Stow carries on the legendary tale of Robin Hood
 -Stow, <cite>The Annales of England</cite>, 227
 <param ve-image 
       label="Image from the title page of 'The Annales of England : faithfully collected out of the most autenticall authors, records , and other monuments of antiquitie, from the first inhabitation untill this present yeere 1592' by John Stow"
+       attribution="Photo taken by Marie Nash"
       url="https://github.com/user-attachments/assets/0516a6ae-35b7-415e-b17c-71d4806824d3">
 
 ## 14. John Stow 1524/25 -1605
@@ -206,6 +216,7 @@ From the second half of the fifteen century major voyages to Africa, America and
 <br><br>
 <param ve-image 
       label="Depiction of Sea Hunt from Book One of 'La Cosmographie Universelle' (1575)."
+       attribution="Photo taken by Marie Nash"
       url="https://github.com/user-attachments/assets/4c70ed10-7330-4b7e-b0ea-a1e969202e15">
 
 ## 17. Andre Thevet (1502-1590), <cite>La Cosmographie Universelle</cite> (1575) From the collection of Robert Ashley (1565-1641)
@@ -215,11 +226,12 @@ The artwork on display (page 941) is of a “haut”. It has been identified wit
 <param ve-image
       compare=true
        label="'Haut' from Andre Thevet (1502-1590), 'La Cosmographie Universelle' (1575)."
+       attribution="Photo taken by Marie Nash"
       url="https://github.com/user-attachments/assets/6c3e20df-adec-4f66-b53b-f1fb61e48ea9">
 
 <param ve-image
-      label="Photo of three-toed sloth. Author: Daniella Maraschiello."
-       attribution="Wikimedia Commons"
+      label="Photo of three-toed sloth."
+       attribution="Wikimedia Commons. Photo taken by Daniella Maraschiello."
        license="CC BY-SA 4.0"
       url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Bicho-pregui%C3%A7a_3.jpg/1200px-Bicho-pregui%C3%A7a_3.jpg?20200305235243">
 
@@ -234,6 +246,7 @@ Translated by John Bostock, M.D., F.R.S. H.T. Riley, Esq.
 
 <param ve-image 
       label="Colossus of Rhodes reconstruction from Andre Thevet (1502-1590), 'La Cosmographie De Levant' (1556)."
+         attribution="Photo taken by Marie Nash"
       url="https://github.com/user-attachments/assets/5ca08298-30cd-4414-b6e9-d6c99966b4bc">
 
 ## 19. André Thevet (1516 - c. 1592)
@@ -253,8 +266,10 @@ Thevet died in Paris in c. 1592.
 The Reformation made an enormous impact on the lives of those who lived during the early modern period (c. 1500-1800). Religious developments during the period also significantly shaped European literature. Important contributions came from writers such as Erasmus, More, and Milton, who addressed theological and philosophical issues within their works. Private collections such as Robert Ashley’s played an important role in the preservation of religious texts, some which would otherwise have been lost. 
 
 <param ve-image 
-      label="Photo: Harpreet Dhillon"
-      url="https://github.com/user-attachments/assets/26ff63f7-dc72-47d1-98d9-8608dc69d54f"
+      label="Robert Salter, 'Wonderfull prophecies from the beginning of the monarchy of this land' (1627)."
+       url="https://github.com/user-attachments/assets/26ff63f7-dc72-47d1-98d9-8608dc69d54f"
+       rotate="90"
+       attribution="Photo taken by Harpreet Dhillon"
       rotate="90">
 
 
@@ -264,8 +279,9 @@ Robert Salter’s <cite>Wonderfull Prophecies from the Beginning of the Monarchy
 The work also explores the significance of contemporary events, including the appearance of a comet and how they align with these prophecies.
 
 <param ve-image 
-      label="Photo: Harpreet Dhillon"
+      label="Robert Salter, 'Wonderfull prophecies from the beginning of the monarchy of this land' (1627)."
       url="https://github.com/user-attachments/assets/26ff63f7-dc72-47d1-98d9-8608dc69d54f"
+       attribution="Photo taken by Harpreet Dhillon"
        rotate="90">
       
 ## 22. Francesco Maria Guazzo, <cite>Compendium Maleficarum (Collection of the Evil Deeds of Witchcraft)</cite> (1626) From the collection of Robert Ashley (1565-1641)
@@ -278,6 +294,7 @@ This second wave of witch trials in Italy took place during the Counter-Reformat
 The <cite>Compendium Maleficarum</cite> provides the reader with lengthy descriptions of witches’ crimes, as well as instructions on how to recognise and defend oneself against them. Rather than blaming the witches for their crimes Guazzo suggests that they are the devil’s victims rather than intentional perpetrators of evil.
 <param ve-image 
       label="Francesco Maria Guazzo, 'Compendium Maleficarum' (Collection of the Evil Deeds of Witchcraft) (1626)."
+         attribution="Photo taken by Marie Nash"
       url="https://github.com/user-attachments/assets/a2b336d7-fbb8-4cda-b10a-9869069951a3">
 
 ## 23. Science
@@ -300,6 +317,7 @@ The <cite>Philosophia Reformata</cite> is an edition of the 15th-century alchemi
 Alchemy was practiced in Europe as early as the fourteenth century and had reached its zenith by the time the <cite>Philosophia Reformata</cite> was published in the seventeenth century. Alchemy focused on the concept of transmutation, the ability of one element to transform into another. It was a precursor to modern chemistry, and the methods and instruments used had a significant impact on the development of scientific tools.
 <param ve-image 
       label="Image from the 'Philosophia Reformata' (1622)."
+         attribution="Photo taken by Marie Nash"
       url="https://github.com/user-attachments/assets/c92a8624-3218-414f-a835-1ce0a834ddc5">
 
 ## 25. The Royal Society 1660 -
@@ -334,7 +352,8 @@ The journal features writings on the natural sciences, reports prepared by the S
 <br><br>
 Middle Temple Library’s collection includes publications from <cite>The Philosophical Transactions</cite> from 1665 - 1750. Unfortunately, many copies of the Library’s collection are too fragile to display.
 <param ve-image 
-      label="Library’s collection of 'The Philosophical Transactions'. Photo Beth Flerlage"
+      label="Library’s collection of 'The Philosophical Transactions'."
+       attribution= "Photo taken by Beth Flerlage"
       url="https://github.com/user-attachments/assets/cd3dedd0-e841-4d68-b23b-18810b8fdb83">
 
 ## 28. <cite>Philosophical transactions, giving some account of the present undertakings, studies, and labours of the ingenious, in many considerable parts of the world. Vol XLIX Part I 1756</cite>
@@ -363,10 +382,12 @@ John Ellis was a merchant and studied corals. His letter from 1753 was included 
 
 <param ve-image 
       label="Image. Title page of 'Philosophical transactions, giving some account of the present undertakings, studies, and labours of the ingenious, in many considerable parts of the world'. Vol XLVIII, Part I. 1753"
+         attribution="Photo taken by Marie Nash"
       url="https://github.com/user-attachments/assets/d8b72c62-4bba-4609-a721-7395b90aa808">
 
 <param ve-image 
       label="Image from 'A letter from Mr. John Ellis to Mr. Peter Collinson, F. R. S concerning cluster-polype, found in the sea near the coast of Greenland'."
+         attribution="Photo taken by Marie Nash"
       url="https://github.com/user-attachments/assets/2f983864-e0cf-4b4a-8530-cf14562d36f3">
 
 ## 30. Rare Book Fund
@@ -396,20 +417,24 @@ These texts are just some of the examples of items requiring restoration work.
 
 <param ve-image 
       label="1. Clapmarius"
+         attribution="Photo taken by Marie Nash"
       url="https://github.com/user-attachments/assets/fd153192-e1b1-4fed-80e9-34d47a7bf43c">
 
 <param ve-image 
       label="2. Heer"
+         attribution="Photo taken by Marie Nash"
       url="https://github.com/user-attachments/assets/fd7cae37-da59-405a-a7f4-8fcac3c43792"
        rotate="90">
 
 <param ve-image 
       label="3. Cervantes"
+         attribution="Photo taken by Marie Nash"
       url="https://github.com/user-attachments/assets/35f4c1f8-bebd-4d16-a96c-bddadf866306"
        rotate="90">
 
 <param ve-image 
       label="4. Donie"
+         attribution="Photo taken by Marie Nash"
       url="https://github.com/user-attachments/assets/0615dbf4-56e6-44f1-8519-95d763aac941"
        rotate="90">
 
