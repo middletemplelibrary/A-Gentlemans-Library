@@ -16,7 +16,7 @@ It was common for a learned gentleman to amass a private library consisting of t
 <param ve-image 
       label="Image from 'The works of Virgil: containing his Pastorals, Georgics, and Æneis', translated into English verse by Mr Dryden"
       url="https://github.com/user-attachments/assets/40195165-ff9f-4f34-a920-a89829f9e895"
-       attribution="Photo taken by Marie Nash">
+       attribution="Photo taken by Marie Nash.">
 
 ## 2. Middle Temple Library: Beginnings
 While the Inn had a small collection prior to 1540, it was the bequest of Robert Ashley’s collection of circa 5000 books in 1642 which led to the library’s re-founding and expansion. Ashley was admitted to Middle Temple in 1588 and called to the bar in 1595. His collection highlights his interest in a variety of different subject areas including travel, science, medicine, and classical literature. A number of items from his collection are featured in this exhibition, many which feature his handwritten notes.  
@@ -27,6 +27,7 @@ If you would like to read more about Robert Ashley’s life, Middle Temple Libra
 
 <param ve-image 
       label="Title page of 'La cosmographie universelle' by André Thevet (1575). Writing on head of title page in Robert Ashley's hand."
+         attribution="Photo taken by Marie Nash."
       url="https://github.com/user-attachments/assets/6a2f1af5-3e4e-4771-916a-51e327dc2932">
 <param ve-image 
       label="Portrait of Robert Ashley, circa 1656."
@@ -39,7 +40,7 @@ Middle Temple Library’s first catalogue was produced in 1655. While this origi
 <br><br>
 <param ve-image 
       label="Middle Temple Library Catalogue, 1734."
-       attribution="Photo taken by Marie Nash"
+       attribution="Photo taken by Marie Nash."
       url="https://github.com/user-attachments/assets/296780ed-28bd-40a9-9393-52598c787b09">
 
 ## 4. The Ancient World
@@ -72,6 +73,7 @@ Virgil's works have greatly influenced Western literature- most notably, the <ci
 
 <param ve-image 
       label="Image from 'The Works of Virgil' (1697)"
+         attribution="Photo taken by Marie Nash."
       url="https://github.com/user-attachments/assets/15fa50b8-83e9-45f4-995c-c04a949ff9de">
 
 ## 6. Apuleius, <cite>Les Métamorphoses ou L'Âne d'or</cite> (1623), translated by Chez Samuel Thibous From the collection of Robert Ashley (1565-1641)
@@ -81,7 +83,7 @@ The novel inspired a number of works by sixteenth and seventeenth century writer
 
 <param ve-image 
       label="Image from 'Les Métamorphoses ou L'Âne d'or' (1623). "
-       attribution="Photo taken by Marie Nash"
+       attribution="Photo taken by Marie Nash."
       url="https://github.com/user-attachments/assets/91ddf652-aa22-420f-9b04-f75f648bb19b">
       
 ## 7. A Fable Within a Fable: <cite>Cupid and Psyche</cite> in Apuleius’ <cite>The Golden Ass</cite>
@@ -95,7 +97,7 @@ Translated by P. G. Walsh
 
 <param ve-image 
       label="Image from 'Les Métamorphoses ou L'Âne d'or' (1623). "
-       attribution="Photo taken by Marie Nash"
+       attribution="Photo taken by Marie Nash."
       url="https://github.com/user-attachments/assets/1683a389-ce98-4a7e-9720-5397f603f2ce">
       
 ## 8. Apuleius (mid-120 AD -?)
@@ -110,7 +112,7 @@ Following the trial Apuleius returned to Numidia and took up residence in Cartha
 <param ve-iframe
       label="'Apuleius, Apology And Florida', 1909, translated by H.E. Butler (courtesy of Archive.org, public domain)."
       src="https://archive.org/embed/apuleius-apology-and-florida-butler-1909/page/55"
-       attribution="Internet Archive"
+       attribution="Internet Archive."
        license="CC0">
 
       
@@ -120,7 +122,7 @@ The first edition of the <cite>Antiquitatum Romanarum Corpus Absolutissum</cite>
 Later editions such as this were expanded and amended by the Scottish Catholic scholar and historian, Thomas Dempster (1579-1625). The 1613 edition was dedicated to King James I which won Dempster an invitation to the English court.
 <param ve-image 
       label="Image from Johannes Rosinus (1551-1626), 'Antiquitatum Romanarum Corpus Absolutissum', 1620."
-       attribution="Photo taken by Marie Nash"
+       attribution="Photo taken by Marie Nash."
       url="https://github.com/user-attachments/assets/d4cb30e2-57fb-4f44-9556-6b815ba41425">
       
 ## 10 Heinrich Ernst and Paganino Gaudenzio, <cite>Ad antiquitates Etruscas quas Volaterrae nuper dederunt observationes, in quibus disquisitionis astronomicae de etruscarum antiquitatum fragmentis auctor quoque notatur</cite>, 1639 From the collection of Robert Ashley (1565-1641)
@@ -138,7 +140,7 @@ Gaudenzio theory that the scrolls were fakes was proved correct in 1700, (45 yea
 
 <param ve-image 
       label="Heinrich Ernst and Paganino Gaudenzio, 'Ad antiquitates Etruscas quas Volaterrae nuper dederunt observationes, in quibus disquisitionis astronomicae de etruscarum antiquitatum fragmentis auctor quoque notatur', 1639."
-       attribution="Photo taken by Harpreet Dhillon"
+       attribution="Photo taken by Harpreet Dhillon."
       url="https://github.com/user-attachments/assets/c604e4de-9108-4708-9d34-00c8e6cfb028"
        rotate="90">
       
@@ -148,7 +150,7 @@ The Inghirami family home, Villa Scornello can be found towards the bottom left 
 <param ve-iframe
       label="Map of Volterra from Curzio Inghirami’s Ethruscarum Antiquitatum Fragmenta, 1636 (image courtesy of Archive.org, public domain)."
       src="https://archive.org/embed/bib_fict_3584558/page/n24"
-       attribution="Internet Archive"
+       attribution="Internet Archive."
        license="CC0">
 
 ## 12. History
@@ -159,7 +161,7 @@ By the time of the seventeenth century the structure of the chronicle became unf
 <param ve-image 
       label="Image Raphael Holinshed’s 'Chronicles of England, Scotlande, and Irelande'. 1577. Internet Archive ‎CC0"
       url="https://github.com/user-attachments/assets/7410f5f0-fa07-4b53-affd-a5a49dbf0a3f"
-       attribution="Internet Archive"
+       attribution="Internet Archive."
        license="CC0">
       
 ## 13. <cite>The Annales of England : faithfully collected out of the most autenticall authors, records , and other monuments of antiquitie, from the first inhabitation untill this present yeere 1592</cite> by John Stow
@@ -176,7 +178,7 @@ Under the heading of Richard I, Stow carries on the legendary tale of Robin Hood
 -Stow, <cite>The Annales of England</cite>, 227
 <param ve-image 
       label="Image from the title page of 'The Annales of England : faithfully collected out of the most autenticall authors, records , and other monuments of antiquitie, from the first inhabitation untill this present yeere 1592' by John Stow"
-       attribution="Photo taken by Marie Nash"
+       attribution="Photo taken by Marie Nash."
       url="https://github.com/user-attachments/assets/0516a6ae-35b7-415e-b17c-71d4806824d3">
 
 ## 14. John Stow 1524/25 -1605
@@ -195,7 +197,7 @@ Image courtesy of [National Portrait Gallery](https://www.npg.org.uk/collections
 <param ve-image 
       label="Image John Stow by unknown artist. Courtesy of National Portrait Gallery, London"
       url="https://github.com/user-attachments/assets/a5926154-1668-41de-9686-10671aaff824"
-       attribution="National Portrait Gallery"
+       attribution="National Portrait Gallery."
        license= "CC BY-NC-ND 3.0">
 
 ## 15. <cite>Campaigns of King William and Queen Anne; from 1689, to 1712 : also, a new system of military discipline, for a battalion of foot and action; with the most essential exercise of the cavalry : adorn'd with a map of the seat of war, and a plan to the exercise 1745</cite> by Richard Kane
@@ -209,6 +211,7 @@ The book and map were printed by John Millan, a bookseller who worked in Charing
 
 <param ve-image 
       label="Image of map printed by John Millan in 'Campaigns of King William and Queen Anne; from 1689, to 1712 : also, a new system of military discipline, for a battalion of foot and action; with the most essential exercise of the cavalry : adorn'd with a map of the seat of war, and a plan to the exercise 1745' by Richard Kane"
+         attribution="Photo taken by Marie Nash."
       url="https://github.com/user-attachments/assets/c7d724b7-5ead-43dd-8665-be4b5ab6bc19">
 
 ## 16. Travel Literature
@@ -216,7 +219,7 @@ From the second half of the fifteen century major voyages to Africa, America and
 <br><br>
 <param ve-image 
       label="Depiction of Sea Hunt from Book One of 'La Cosmographie Universelle' (1575)."
-       attribution="Photo taken by Marie Nash"
+       attribution="Photo taken by Marie Nash."
       url="https://github.com/user-attachments/assets/4c70ed10-7330-4b7e-b0ea-a1e969202e15">
 
 ## 17. Andre Thevet (1502-1590), <cite>La Cosmographie Universelle</cite> (1575) From the collection of Robert Ashley (1565-1641)
@@ -226,7 +229,7 @@ The artwork on display (page 941) is of a “haut”. It has been identified wit
 <param ve-image
       compare=true
        label="'Haut' from Andre Thevet (1502-1590), 'La Cosmographie Universelle' (1575)."
-       attribution="Photo taken by Marie Nash"
+       attribution="Photo taken by Marie Nash."
       url="https://github.com/user-attachments/assets/6c3e20df-adec-4f66-b53b-f1fb61e48ea9">
 
 <param ve-image
@@ -246,7 +249,7 @@ Translated by John Bostock, M.D., F.R.S. H.T. Riley, Esq.
 
 <param ve-image 
       label="Colossus of Rhodes reconstruction from Andre Thevet (1502-1590), 'La Cosmographie De Levant' (1556)."
-         attribution="Photo taken by Marie Nash"
+         attribution="Photo taken by Marie Nash."
       url="https://github.com/user-attachments/assets/5ca08298-30cd-4414-b6e9-d6c99966b4bc">
 
 ## 19. André Thevet (1516 - c. 1592)
@@ -259,7 +262,7 @@ Thevet died in Paris in c. 1592.
 <param ve-image 
       label="Portrait of André Thévet, from 'Les Vrais pourtraits et vies des hommes illustres' (Paris, 1584)."
       url="https://github.com/user-attachments/assets/2ee6b053-dd2d-4a47-b04f-6ac314f0900d"
-       attribution="© The Trustees of the British Museum"
+       attribution="© The Trustees of the British Museum."
        license="CC BY-NC-SA 4.0">
 
 ## 20. Religious Literature in the Early Modern Period
@@ -269,7 +272,7 @@ The Reformation made an enormous impact on the lives of those who lived during t
       label="Robert Salter, 'Wonderfull prophecies from the beginning of the monarchy of this land' (1627)."
        url="https://github.com/user-attachments/assets/26ff63f7-dc72-47d1-98d9-8608dc69d54f"
        rotate="90"
-       attribution="Photo taken by Harpreet Dhillon"
+       attribution="Photo taken by Harpreet Dhillon."
       rotate="90">
 
 
@@ -281,7 +284,7 @@ The work also explores the significance of contemporary events, including the ap
 <param ve-image 
       label="Robert Salter, 'Wonderfull prophecies from the beginning of the monarchy of this land' (1627)."
       url="https://github.com/user-attachments/assets/26ff63f7-dc72-47d1-98d9-8608dc69d54f"
-       attribution="Photo taken by Harpreet Dhillon"
+       attribution="Photo taken by Harpreet Dhillon."
        rotate="90">
       
 ## 22. Francesco Maria Guazzo, <cite>Compendium Maleficarum (Collection of the Evil Deeds of Witchcraft)</cite> (1626) From the collection of Robert Ashley (1565-1641)
@@ -294,7 +297,7 @@ This second wave of witch trials in Italy took place during the Counter-Reformat
 The <cite>Compendium Maleficarum</cite> provides the reader with lengthy descriptions of witches’ crimes, as well as instructions on how to recognise and defend oneself against them. Rather than blaming the witches for their crimes Guazzo suggests that they are the devil’s victims rather than intentional perpetrators of evil.
 <param ve-image 
       label="Francesco Maria Guazzo, 'Compendium Maleficarum' (Collection of the Evil Deeds of Witchcraft) (1626)."
-         attribution="Photo taken by Marie Nash"
+         attribution="Photo taken by Marie Nash."
       url="https://github.com/user-attachments/assets/a2b336d7-fbb8-4cda-b10a-9869069951a3">
 
 ## 23. Science
@@ -306,7 +309,7 @@ Image courtesy of the [Wellcome Collection Public Domain](https://wellcomecollec
 <param ve-image 
       label="Image An elderly alchemist sitting next to his equipment.” Engraving by C. Weigel, 1698."
       url="https://github.com/user-attachments/assets/0c1f0984-fe38-4b50-bdd0-a6475456af7d"
-       attribution="Wellcome Collection Public Domain"
+       attribution="Wellcome Collection Public Domain."
        license="CC0">
 
 ## 24. Johann Daniel Mylius (1583-1642), <cite>Philosophia Reformata</cite> (1622) From the collection of Robert Ashley (1565-1641)
@@ -317,7 +320,7 @@ The <cite>Philosophia Reformata</cite> is an edition of the 15th-century alchemi
 Alchemy was practiced in Europe as early as the fourteenth century and had reached its zenith by the time the <cite>Philosophia Reformata</cite> was published in the seventeenth century. Alchemy focused on the concept of transmutation, the ability of one element to transform into another. It was a precursor to modern chemistry, and the methods and instruments used had a significant impact on the development of scientific tools.
 <param ve-image 
       label="Image from the 'Philosophia Reformata' (1622)."
-         attribution="Photo taken by Marie Nash"
+         attribution="Photo taken by Marie Nash."
       url="https://github.com/user-attachments/assets/c92a8624-3218-414f-a835-1ce0a834ddc5">
 
 ## 25. The Royal Society 1660 -
@@ -331,7 +334,7 @@ Today the society includes approximately 1,800 members worldwide.
       label="A meeting of the Royal Society in Crane Court.” This image is from George Walter Thornbury’s book “Old and New London, etc.” published in 1887 the picture shows a meeting of the Royal Society with Sir Issac Newton in the President’s Chair."
       url="https://github.com/user-attachments/assets/6a841963-e13c-4fff-959e-95bad778778e"
       rotate="90"
-       attribution="British Library"
+       attribution="British Library."
        license="CC0"> 
 
 ## 26. John Evelyn 1620-1706 
@@ -342,7 +345,7 @@ Image courtesy of the [Wellcome Collection](https://wellcomecollection.org/works
 <param ve-image 
       label="Portrait of John Evelyn. T. Bragg after Kneller. Image courtesy of the Wellcome Collection (CC BY 4.0)"
       url="https://github.com/user-attachments/assets/5a26d6ca-553b-4f9b-abd7-49d729014cef"
-       attribution="Wellcome Collection"
+       attribution="Wellcome Collection."
        license="CC BY 4.0">
 
 ## 27. The Philosophical Transactions of the Royal Society 1665-
@@ -353,7 +356,7 @@ The journal features writings on the natural sciences, reports prepared by the S
 Middle Temple Library’s collection includes publications from <cite>The Philosophical Transactions</cite> from 1665 - 1750. Unfortunately, many copies of the Library’s collection are too fragile to display.
 <param ve-image 
       label="Library’s collection of 'The Philosophical Transactions'."
-       attribution= "Photo taken by Beth Flerlage"
+       attribution= "Photo taken by Beth Flerlage."
       url="https://github.com/user-attachments/assets/cd3dedd0-e841-4d68-b23b-18810b8fdb83">
 
 ## 28. <cite>Philosophical transactions, giving some account of the present undertakings, studies, and labours of the ingenious, in many considerable parts of the world. Vol XLIX Part I 1756</cite>
@@ -367,7 +370,7 @@ First image courtesy of the [National Portrait Gallery](https://www.npg.org.uk/c
 <param ve-image 
       label="Image Stephen Hales by James Macardell, after Thomas Hudson 1759 © National Portrait Gallery."
       url="https://github.com/user-attachments/assets/5cb86348-c44d-4f6b-9479-b54ef9eea260"
-       attribution="© National Portrait Gallery"
+       attribution="© National Portrait Gallery."
        license="CC BY-NC-ND 3.0">
 
 <param ve-image 
@@ -382,12 +385,12 @@ John Ellis was a merchant and studied corals. His letter from 1753 was included 
 
 <param ve-image 
       label="Image. Title page of 'Philosophical transactions, giving some account of the present undertakings, studies, and labours of the ingenious, in many considerable parts of the world'. Vol XLVIII, Part I. 1753"
-         attribution="Photo taken by Marie Nash"
+         attribution="Photo taken by Marie Nash."
       url="https://github.com/user-attachments/assets/d8b72c62-4bba-4609-a721-7395b90aa808">
 
 <param ve-image 
       label="Image from 'A letter from Mr. John Ellis to Mr. Peter Collinson, F. R. S concerning cluster-polype, found in the sea near the coast of Greenland'."
-         attribution="Photo taken by Marie Nash"
+         attribution="Photo taken by Marie Nash."
       url="https://github.com/user-attachments/assets/2f983864-e0cf-4b4a-8530-cf14562d36f3">
 
 ## 30. Rare Book Fund
@@ -417,24 +420,24 @@ These texts are just some of the examples of items requiring restoration work.
 
 <param ve-image 
       label="1. Clapmarius"
-         attribution="Photo taken by Marie Nash"
+         attribution="Photo taken by Marie Nash."
       url="https://github.com/user-attachments/assets/fd153192-e1b1-4fed-80e9-34d47a7bf43c">
 
 <param ve-image 
       label="2. Heer"
-         attribution="Photo taken by Marie Nash"
+         attribution="Photo taken by Marie Nash."
       url="https://github.com/user-attachments/assets/fd7cae37-da59-405a-a7f4-8fcac3c43792"
        rotate="90">
 
 <param ve-image 
       label="3. Cervantes"
-         attribution="Photo taken by Marie Nash"
+         attribution="Photo taken by Marie Nash."
       url="https://github.com/user-attachments/assets/35f4c1f8-bebd-4d16-a96c-bddadf866306"
        rotate="90">
 
 <param ve-image 
       label="4. Donie"
-         attribution="Photo taken by Marie Nash"
+         attribution="Photo taken by Marie Nash."
       url="https://github.com/user-attachments/assets/0615dbf4-56e6-44f1-8519-95d763aac941"
        rotate="90">
 
