@@ -5,7 +5,7 @@
        layout="vertical">
 
 ## 
-Welcome to Middle Temple Library’s exhibition, A Gentleman's Library.
+Welcome to Middle Temple Library’s online exhibition, A Gentleman's Library, curated by Marie Nash and Beth Flerlage. This exhibition runs in Middle Temple Library from 3rd October 2024 until January 2025.
 
 <param ve-image 
        url="https://user-images.githubusercontent.com/110464039/236245322-3a82211f-d8e1-4d96-b04a-cd1a96af2c3c.jpg">
@@ -69,13 +69,13 @@ Virgil's works have greatly influenced Western literature- most notably, the <ci
       label="Image from 'The Works of Virgil' (1697)"
       url="https://github.com/user-attachments/assets/15fa50b8-83e9-45f4-995c-c04a949ff9de">
 
-## 6. Apuleius, <cite>Les metamorphoses ou l'Asne dor</cite> (1623), translated by Chez Samuel Thibous From the collection of Robert Ashley (1565-1641)
-This French translation of Roman writer and philosopher, Apuleius’ <cite>The Metamorphoses</cite> or <cite>The Golden Ass</cite> was published in Paris in 1623. The title <cite>Metamorphoses</cite> comes from an eleventh century manuscript; however, Augustine tells us that Apuleius himself used the title <cite>Asinus Aureus</cite> (CD 18.18). The tale, which is believed to have been inspired by a now lost Greek story, is the only ancient Roman novel which survives in its entirety. Within the fable, its hero Lucius’ obsession with sex and magic leads to him being transformed into an ass by the witch, Pamphile. After surviving a number of trials and ordeals he is finally transformed back into his human form by the goddess Isis.
+## 6. Apuleius, <cite>Les Métamorphoses ou L'Âne d'or</cite> (1623), translated by Chez Samuel Thibous From the collection of Robert Ashley (1565-1641)
+This French translation of Roman writer and philosopher, Apuleius’ <cite>The Metamorphoses or The Golden Ass</cite> was published in Paris in 1623. The title <cite>Metamorphoses</cite> comes from an eleventh century manuscript; however, Augustine tells us that Apuleius himself used the title <cite>Asinus Aureus</cite> (CD 18.18). The tale, which is believed to have been inspired by a now lost Greek story, is the only ancient Roman novel which survives in its entirety. Within the fable, its hero Lucius’ obsession with sex and magic leads to him being transformed into an ass by the witch, Pamphile. After surviving a number of trials and ordeals he is finally transformed back into his human form by the goddess Isis.
 <br><br>
 The novel inspired a number of works by sixteenth and seventeenth century writers including Spencer’s <cite>The Faerie Queen</cite>, Marlowe’s <cite>Hero and Leander</cite>, Sidney’s <cite>Arcadia</cite>, Milton’s <cite>Paradise Regained</cite>, and most famously, Shakespeare’s <cite>A Midsummer Night’s Dream</cite>. 
 
 <param ve-image 
-      label="Image from 'Les Metamorphoses ou l'Asne dor' (1623). "
+      label="Image from 'Les Métamorphoses ou L'Âne d'or' (1623). "
       url="https://github.com/user-attachments/assets/91ddf652-aa22-420f-9b04-f75f648bb19b">
       
 ## 7. A Fable Within a Fable: <cite>Cupid and Psyche</cite> in Apuleius’ <cite>The Golden Ass</cite>
@@ -88,7 +88,7 @@ The fable’s themes of a young girl with two jealous sisters who is courted by 
 Translated by P. G. Walsh
 
 <param ve-image 
-      label="Image from 'Les Metamorphoses ou l'Asne dor' (1623). "
+      label="Image from 'Les Métamorphoses ou L'Âne d'or' (1623). "
       url="https://github.com/user-attachments/assets/1683a389-ce98-4a7e-9720-5397f603f2ce">
       
 ## 8. Apuleius (mid-120 AD -?)
@@ -218,8 +218,10 @@ The artwork on display (page 941) is of a “haut”. It has been identified wit
       url="https://github.com/user-attachments/assets/6c3e20df-adec-4f66-b53b-f1fb61e48ea9">
 
 <param ve-image
-      label="Photo of three-toed sloth, photograph by Natural History on the Net."
-      url="https://github.com/user-attachments/assets/141cfc5d-8173-4351-8082-d51d0af22606">
+      label="Photo of three-toed sloth. Author: Daniella Maraschiello."
+       attribution="Wikimedia Commons"
+       license="CC BY-SA 4.0"
+      url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Bicho-pregui%C3%A7a_3.jpg/1200px-Bicho-pregui%C3%A7a_3.jpg?20200305235243">
 
 ## 18. Andre Thevet (1502-1590), <cite>La Cosmographie De Levant</cite> (1556) From the collection of Robert Ashley (1565-1641)
 <cite>La Cosmographie de Levant</cite> was published in Lyon, in 1556 shortly after Thevet returned from his voyage to the near East. Within the text, Thevet describes the lands, people and animals of Asia, Egypt, Greece, Palestine and Rhodes. The woodcuts which include depictions of animals, hunting scenes and antiquities amongst other things are by the French painter and draftsman Bernard Salomon, also known as “Le Petit Bernard” (1506 - c. 1561).
@@ -412,4 +414,4 @@ These texts are just some of the examples of items requiring restoration work.
        rotate="90">
 
 ##
-This exhibition runs in Middle Temple Library from 3rd October 2024. For more information about the Library and what we do, [please click here to visit our website](https://www.middletemple.org.uk/library).
+This exhibition runs in Middle Temple Library from 3rd October 2024 until January 2025. For more information about the Library and what we do, [please click here to visit our website](https://www.middletemple.org.uk/library).
