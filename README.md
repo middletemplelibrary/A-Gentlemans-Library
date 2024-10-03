@@ -79,7 +79,7 @@ Virgil's works have greatly influenced Western literature- most notably, the <ci
 ## 6. Apuleius, <cite>Les Métamorphoses ou L'Âne d'or</cite> (1623), translated by Chez Samuel Thibous From the collection of Robert Ashley (1565-1641)
 This French translation of Roman writer and philosopher, Apuleius’ <cite>The Metamorphoses or The Golden Ass</cite> was published in Paris in 1623. The title <cite>Metamorphoses</cite> comes from an eleventh century manuscript; however, Augustine tells us that Apuleius himself used the title <cite>Asinus Aureus</cite> (CD 18.18). The tale, which is believed to have been inspired by a now lost Greek story, is the only ancient Roman novel which survives in its entirety. Within the fable, its hero Lucius’ obsession with sex and magic leads to him being transformed into an ass by the witch, Pamphile. After surviving a number of trials and ordeals he is finally transformed back into his human form by the goddess Isis.
 <br><br>
-The novel inspired a number of works by sixteenth and seventeenth century writers including Spencer’s <cite>The Faerie Queen</cite>, Marlowe’s <cite>Hero and Leander</cite>, Sidney’s <cite>Arcadia</cite>, Milton’s <cite>Paradise Regained</cite>, and most famously, Shakespeare’s <cite>A Midsummer Night’s Dream</cite>. 
+The novel inspired a number of works by sixteenth and seventeenth century writers including Spenser’s <cite>The Faerie Queen</cite>, Marlowe’s <cite>Hero and Leander</cite>, Sidney’s <cite>Arcadia</cite>, Milton’s <cite>Paradise Regained</cite>, and most famously, Shakespeare’s <cite>A Midsummer Night’s Dream</cite>. 
 
 <param ve-image 
       label="Image from 'Les Métamorphoses ou L'Âne d'or' (1623). "
@@ -338,7 +338,7 @@ Today the society includes approximately 1,800 members worldwide.
        license="CC0"> 
 
 ## 26. John Evelyn 1620-1706 
-Middle Templar John Evelyn was an early Fellow of the Royal Society, writing books on horticulture and air pollution. Admitted to the Inn in 1636, he kept a diary of his time at the Inn until his death in 1706.
+Middle Templar and founder of the Royal Society, John Evelyn wrote books on horticulture and air pollution. Admitted to the Inn in 1636, he kept a diary of his time at the Inn until his death in 1706.
 <br><br>
 Image courtesy of the [Wellcome Collection](https://wellcomecollection.org/works/ggfyrffb/images?id=t9hx8qya).
 
