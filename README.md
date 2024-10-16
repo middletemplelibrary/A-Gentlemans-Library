@@ -338,7 +338,7 @@ Today the society includes approximately 1,800 members worldwide.
        license="CC0"> 
 
 ## 26. John Evelyn 1620-1706 
-Middle Templar and founder of the Royal Society, John Evelyn wrote books on horticulture and air pollution. Admitted to the Inn in 1636, he kept a diary of his time at the Inn until his death in 1706.
+Middle Templar John Evelyn was an early Fellow of the Royal Society, writing books on horticulture and air pollution. Admitted to the Inn in 1636, he kept a diary throughout his life; the entries serving as an important primary source.
 <br><br>
 Image courtesy of the [Wellcome Collection](https://wellcomecollection.org/works/ggfyrffb/images?id=t9hx8qya).
 
