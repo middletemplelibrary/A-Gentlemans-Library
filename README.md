@@ -108,7 +108,8 @@ Apuleius was born in the mid-120s AD in Madauros, an ancient Roman city in Numid
 Translated by H. E. Butler
 <br><br>
 Following the trial Apuleius returned to Numidia and took up residence in Carthage. He gained fame far and wide as a writer, philosopher and lecturer.
-
+<br><br>
+Text courtesy of the Internet Archive, <cite>[Apuleius, Apology And Florida (Butler 1909 translation)](https://archive.org/details/apuleius-apology-and-florida-butler-1909)</cite>.
 <param ve-iframe
       label="'Apuleius, Apology And Florida', 1909, translated by H.E. Butler (courtesy of Archive.org, public domain)."
       src="https://ia801506.us.archive.org/26/items/apuleius-apology-and-florida-butler-1909/Apuleius%2C%20Apology%20and%20Florida%20%28Butler%201909%29.pdf#page=[53]"
