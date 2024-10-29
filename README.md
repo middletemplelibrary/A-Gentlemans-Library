@@ -111,7 +111,7 @@ Following the trial Apuleius returned to Numidia and took up residence in Cartha
 
 <param ve-iframe
       label="'Apuleius, Apology And Florida', 1909, translated by H.E. Butler (courtesy of Archive.org, public domain)."
-      src="https://archive.org/embed/apuleius-apology-and-florida-butler-1909/page/55"
+      src="https://ia801506.us.archive.org/26/items/apuleius-apology-and-florida-butler-1909/Apuleius%2C%20Apology%20and%20Florida%20%28Butler%201909%29.pdf"
        attribution="Internet Archive."
        license="CC0">
 
